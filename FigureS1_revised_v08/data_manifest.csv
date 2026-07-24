@@ -1,0 +1,10 @@
+asset_id,modality,species,source_path_or_accession,subset_rule,observational_unit,n_observations,used_by_panel,status
+human_scrna_postqc,scRNA-seq,human,FIGS1_SCRNA_H5AD,All post-QC cells in the registered 38-sample object,cell,279305,"B,D",used
+human_stereo_registered,Stereo-seq,human,FIGS1_STEREO_ROOT,Exact registered 11-section whitelist,cell bin,387061,"B,E,F",used
+human_visium_registered,10x Visium,human,FIGS1_VISIUM_H5AD,Exactly two declared human sections,spot,4449,B,used
+figure1a_legacy_clinical,clinical photography,human,Figure1 inputs raw_panels ppt_slide2_media image3.png,Clinical appearance row only; native-pixel crop; approximate 2-cm scale inferred from adult lower-leg anatomy,image,4,A,used_estimated_scale
+figureS1C_burn_outcome_schematic,generated explanatory illustration,human,assets/linked_rasters/FigureS1C_burn_outcome_illustration_base_v01.png,Non-evidentiary thermal-burn illustration showing SPTDI and DPTDI injury depths and outcomes,illustration,1,C,used_nonexperimental
+legacy_figure3_HE,histology,human,legacy Figure 3.tif,Native-resolution 5-dpb H&E crop,image,1,C,used
+legacy_figureS31A_stats,statistical raster,human,legacy Figure S31A,Residual-appendage chart reproduced without resampling,image,1,C,used_test_metadata_pending
+marker_registry,annotation,human,Figure1_Supplement_QC_20260721/cell_state_markers.csv,47 states with canonical markers,state,47,D,used
+
