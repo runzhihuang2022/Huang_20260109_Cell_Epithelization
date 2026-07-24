@@ -1,0 +1,507 @@
+cell_type,compartment,metric,day_1,day_2,n_sections_day_1,n_sections_day_2,mannwhitney_u,p_value,fdr_bh,significant_fdr_0.05
+KC_Basal,Other KC/SAC,median_x_um,5,12,1,3,1.0,1.0,1.0,False
+KC_Basal,Other KC/SAC,median_x_um,5,19,1,2,2.0,0.6666666666666666,0.9858156028368794,False
+KC_Basal,Other KC/SAC,median_x_um,5,26,1,2,1.0,1.0,1.0,False
+KC_Basal,Other KC/SAC,median_x_um,5,60,1,1,0.0,1.0,1.0,False
+KC_Basal,Other KC/SAC,median_x_um,12,19,3,2,4.0,0.8,1.0,False
+KC_Basal,Other KC/SAC,median_x_um,12,26,3,2,3.0,1.0,1.0,False
+KC_Basal,Other KC/SAC,median_x_um,12,60,3,1,1.0,1.0,1.0,False
+KC_Basal,Other KC/SAC,median_x_um,19,26,2,2,1.0,0.6666666666666666,0.9858156028368794,False
+KC_Basal,Other KC/SAC,median_x_um,19,60,2,1,0.0,0.6666666666666666,0.9858156028368794,False
+KC_Basal,Other KC/SAC,median_x_um,26,60,2,1,1.0,1.0,1.0,False
+KC_Basal,Other KC/SAC,median_depth,5,12,1,3,3.0,0.5,0.9858156028368794,False
+KC_Basal,Other KC/SAC,median_depth,5,19,1,2,2.0,0.6666666666666666,0.9858156028368794,False
+KC_Basal,Other KC/SAC,median_depth,5,26,1,2,2.0,0.6666666666666666,0.9858156028368794,False
+KC_Basal,Other KC/SAC,median_depth,5,60,1,1,1.0,1.0,1.0,False
+KC_Basal,Other KC/SAC,median_depth,12,19,3,2,6.0,0.2,0.9858156028368794,False
+KC_Basal,Other KC/SAC,median_depth,12,26,3,2,6.0,0.2,0.9858156028368794,False
+KC_Basal,Other KC/SAC,median_depth,12,60,3,1,3.0,0.5,0.9858156028368794,False
+KC_Basal,Other KC/SAC,median_depth,19,26,2,2,2.0,1.0,1.0,False
+KC_Basal,Other KC/SAC,median_depth,19,60,2,1,0.0,0.6666666666666666,0.9858156028368794,False
+KC_Basal,Other KC/SAC,median_depth,26,60,2,1,1.0,1.0,1.0,False
+KC_Basal_Mig,Other KC/SAC,median_x_um,12,19,3,2,4.0,0.8,1.0,False
+KC_Basal_Mig,Other KC/SAC,median_x_um,12,26,3,1,2.0,1.0,1.0,False
+KC_Basal_Mig,Other KC/SAC,median_x_um,12,60,3,1,1.0,1.0,1.0,False
+KC_Basal_Mig,Other KC/SAC,median_x_um,19,26,2,1,1.0,1.0,1.0,False
+KC_Basal_Mig,Other KC/SAC,median_x_um,19,60,2,1,0.0,0.6666666666666666,0.9858156028368794,False
+KC_Basal_Mig,Other KC/SAC,median_x_um,26,60,1,1,0.0,1.0,1.0,False
+KC_Basal_Mig,Other KC/SAC,median_depth,12,19,3,2,6.0,0.2,0.9858156028368794,False
+KC_Basal_Mig,Other KC/SAC,median_depth,12,26,3,1,3.0,0.5,0.9858156028368794,False
+KC_Basal_Mig,Other KC/SAC,median_depth,12,60,3,1,3.0,0.5,0.9858156028368794,False
+KC_Basal_Mig,Other KC/SAC,median_depth,19,26,2,1,0.0,0.6666666666666666,0.9858156028368794,False
+KC_Basal_Mig,Other KC/SAC,median_depth,19,60,2,1,0.0,0.6666666666666666,0.9858156028368794,False
+KC_Basal_Mig,Other KC/SAC,median_depth,26,60,1,1,0.0,1.0,1.0,False
+KC_Basal_Prolif,Other KC/SAC,median_x_um,12,19,2,2,4.0,0.3333333333333333,0.9858156028368794,False
+KC_Basal_Prolif,Other KC/SAC,median_x_um,12,26,2,1,2.0,0.6666666666666666,0.9858156028368794,False
+KC_Basal_Prolif,Other KC/SAC,median_x_um,12,60,2,1,0.0,0.6666666666666666,0.9858156028368794,False
+KC_Basal_Prolif,Other KC/SAC,median_x_um,19,26,2,1,1.0,1.0,1.0,False
+KC_Basal_Prolif,Other KC/SAC,median_x_um,19,60,2,1,0.0,0.6666666666666666,0.9858156028368794,False
+KC_Basal_Prolif,Other KC/SAC,median_x_um,26,60,1,1,0.0,1.0,1.0,False
+KC_Basal_Prolif,Other KC/SAC,median_depth,12,19,2,2,4.0,0.3333333333333333,0.9858156028368794,False
+KC_Basal_Prolif,Other KC/SAC,median_depth,12,26,2,1,2.0,0.6666666666666666,0.9858156028368794,False
+KC_Basal_Prolif,Other KC/SAC,median_depth,12,60,2,1,1.0,1.0,1.0,False
+KC_Basal_Prolif,Other KC/SAC,median_depth,19,26,2,1,1.0,1.0,1.0,False
+KC_Basal_Prolif,Other KC/SAC,median_depth,19,60,2,1,0.0,0.6666666666666666,0.9858156028368794,False
+KC_Basal_Prolif,Other KC/SAC,median_depth,26,60,1,1,0.0,1.0,1.0,False
+KC_Spinous,Other KC/SAC,median_x_um,5,12,1,2,0.0,0.6666666666666666,0.9858156028368794,False
+KC_Spinous,Other KC/SAC,median_x_um,5,19,1,2,2.0,0.6666666666666666,0.9858156028368794,False
+KC_Spinous,Other KC/SAC,median_x_um,5,26,1,1,0.0,1.0,1.0,False
+KC_Spinous,Other KC/SAC,median_x_um,5,60,1,1,1.0,1.0,1.0,False
+KC_Spinous,Other KC/SAC,median_x_um,12,19,2,2,4.0,0.3333333333333333,0.9858156028368794,False
+KC_Spinous,Other KC/SAC,median_x_um,12,26,2,1,2.0,0.6666666666666666,0.9858156028368794,False
+KC_Spinous,Other KC/SAC,median_x_um,12,60,2,1,2.0,0.6666666666666666,0.9858156028368794,False
+KC_Spinous,Other KC/SAC,median_x_um,19,26,2,1,0.0,0.6666666666666666,0.9858156028368794,False
+KC_Spinous,Other KC/SAC,median_x_um,19,60,2,1,0.0,0.6666666666666666,0.9858156028368794,False
+KC_Spinous,Other KC/SAC,median_x_um,26,60,1,1,1.0,1.0,1.0,False
+KC_Spinous,Other KC/SAC,median_depth,5,12,1,2,2.0,0.6666666666666666,0.9858156028368794,False
+KC_Spinous,Other KC/SAC,median_depth,5,19,1,2,2.0,0.6666666666666666,0.9858156028368794,False
+KC_Spinous,Other KC/SAC,median_depth,5,26,1,1,1.0,1.0,1.0,False
+KC_Spinous,Other KC/SAC,median_depth,5,60,1,1,1.0,1.0,1.0,False
+KC_Spinous,Other KC/SAC,median_depth,12,19,2,2,4.0,0.3333333333333333,0.9858156028368794,False
+KC_Spinous,Other KC/SAC,median_depth,12,26,2,1,2.0,0.6666666666666666,0.9858156028368794,False
+KC_Spinous,Other KC/SAC,median_depth,12,60,2,1,2.0,0.6666666666666666,0.9858156028368794,False
+KC_Spinous,Other KC/SAC,median_depth,19,26,2,1,0.0,0.6666666666666666,0.9858156028368794,False
+KC_Spinous,Other KC/SAC,median_depth,19,60,2,1,0.0,0.6666666666666666,0.9858156028368794,False
+KC_Spinous,Other KC/SAC,median_depth,26,60,1,1,0.0,1.0,1.0,False
+KC_Spinous_Mat,Other KC/SAC,median_x_um,12,19,2,2,4.0,0.3333333333333333,0.9858156028368794,False
+KC_Spinous_Mat,Other KC/SAC,median_x_um,12,26,2,1,2.0,0.6666666666666666,0.9858156028368794,False
+KC_Spinous_Mat,Other KC/SAC,median_x_um,12,60,2,1,2.0,0.6666666666666666,0.9858156028368794,False
+KC_Spinous_Mat,Other KC/SAC,median_x_um,19,26,2,1,0.0,0.6666666666666666,0.9858156028368794,False
+KC_Spinous_Mat,Other KC/SAC,median_x_um,19,60,2,1,2.0,0.6666666666666666,0.9858156028368794,False
+KC_Spinous_Mat,Other KC/SAC,median_x_um,26,60,1,1,1.0,1.0,1.0,False
+KC_Spinous_Mat,Other KC/SAC,median_depth,12,19,2,2,4.0,0.3333333333333333,0.9858156028368794,False
+KC_Spinous_Mat,Other KC/SAC,median_depth,12,26,2,1,2.0,0.6666666666666666,0.9858156028368794,False
+KC_Spinous_Mat,Other KC/SAC,median_depth,12,60,2,1,2.0,0.6666666666666666,0.9858156028368794,False
+KC_Spinous_Mat,Other KC/SAC,median_depth,19,26,2,1,0.0,0.6666666666666666,0.9858156028368794,False
+KC_Spinous_Mat,Other KC/SAC,median_depth,19,60,2,1,0.0,0.6666666666666666,0.9858156028368794,False
+KC_Spinous_Mat,Other KC/SAC,median_depth,26,60,1,1,0.0,1.0,1.0,False
+KC_Granular,Other KC/SAC,median_x_um,12,19,2,2,4.0,0.3333333333333333,0.9858156028368794,False
+KC_Granular,Other KC/SAC,median_x_um,12,26,2,1,2.0,0.6666666666666666,0.9858156028368794,False
+KC_Granular,Other KC/SAC,median_x_um,12,60,2,1,2.0,0.6666666666666666,0.9858156028368794,False
+KC_Granular,Other KC/SAC,median_x_um,19,26,2,1,2.0,0.6666666666666666,0.9858156028368794,False
+KC_Granular,Other KC/SAC,median_x_um,19,60,2,1,0.0,0.6666666666666666,0.9858156028368794,False
+KC_Granular,Other KC/SAC,median_x_um,26,60,1,1,0.0,1.0,1.0,False
+KC_Granular,Other KC/SAC,median_depth,12,19,2,2,4.0,0.3333333333333333,0.9858156028368794,False
+KC_Granular,Other KC/SAC,median_depth,12,26,2,1,2.0,0.6666666666666666,0.9858156028368794,False
+KC_Granular,Other KC/SAC,median_depth,12,60,2,1,2.0,0.6666666666666666,0.9858156028368794,False
+KC_Granular,Other KC/SAC,median_depth,19,26,2,1,2.0,0.6666666666666666,0.9858156028368794,False
+KC_Granular,Other KC/SAC,median_depth,19,60,2,1,0.0,0.6666666666666666,0.9858156028368794,False
+KC_Granular,Other KC/SAC,median_depth,26,60,1,1,0.0,1.0,1.0,False
+SAC_SG_Clear,Other KC/SAC,median_x_um,5,12,1,4,0.0,0.4,0.9858156028368794,False
+SAC_SG_Clear,Other KC/SAC,median_x_um,5,19,1,2,0.0,0.6666666666666666,0.9858156028368794,False
+SAC_SG_Clear,Other KC/SAC,median_x_um,5,26,1,2,0.0,0.6666666666666666,0.9858156028368794,False
+SAC_SG_Clear,Other KC/SAC,median_x_um,5,60,1,1,0.0,1.0,1.0,False
+SAC_SG_Clear,Other KC/SAC,median_x_um,12,19,4,2,8.0,0.13333333333333333,0.9858156028368794,False
+SAC_SG_Clear,Other KC/SAC,median_x_um,12,26,4,2,1.0,0.26666666666666666,0.9858156028368794,False
+SAC_SG_Clear,Other KC/SAC,median_x_um,12,60,4,1,0.0,0.4,0.9858156028368794,False
+SAC_SG_Clear,Other KC/SAC,median_x_um,19,26,2,2,0.0,0.3333333333333333,0.9858156028368794,False
+SAC_SG_Clear,Other KC/SAC,median_x_um,19,60,2,1,0.0,0.6666666666666666,0.9858156028368794,False
+SAC_SG_Clear,Other KC/SAC,median_x_um,26,60,2,1,0.0,0.6666666666666666,0.9858156028368794,False
+SAC_SG_Clear,Other KC/SAC,median_depth,5,12,1,4,0.0,0.4,0.9858156028368794,False
+SAC_SG_Clear,Other KC/SAC,median_depth,5,19,1,2,1.0,1.0,1.0,False
+SAC_SG_Clear,Other KC/SAC,median_depth,5,26,1,2,2.0,0.6666666666666666,0.9858156028368794,False
+SAC_SG_Clear,Other KC/SAC,median_depth,5,60,1,1,1.0,1.0,1.0,False
+SAC_SG_Clear,Other KC/SAC,median_depth,12,19,4,2,8.0,0.13333333333333333,0.9858156028368794,False
+SAC_SG_Clear,Other KC/SAC,median_depth,12,26,4,2,8.0,0.13333333333333333,0.9858156028368794,False
+SAC_SG_Clear,Other KC/SAC,median_depth,12,60,4,1,4.0,0.4,0.9858156028368794,False
+SAC_SG_Clear,Other KC/SAC,median_depth,19,26,2,2,3.0,0.6666666666666666,0.9858156028368794,False
+SAC_SG_Clear,Other KC/SAC,median_depth,19,60,2,1,2.0,0.6666666666666666,0.9858156028368794,False
+SAC_SG_Clear,Other KC/SAC,median_depth,26,60,2,1,2.0,0.6666666666666666,0.9858156028368794,False
+SAC_SG_Ductal,Other KC/SAC,median_x_um,5,12,1,4,0.0,0.4,0.9858156028368794,False
+SAC_SG_Ductal,Other KC/SAC,median_x_um,5,19,1,2,1.0,1.0,1.0,False
+SAC_SG_Ductal,Other KC/SAC,median_x_um,5,26,1,2,0.0,0.6666666666666666,0.9858156028368794,False
+SAC_SG_Ductal,Other KC/SAC,median_x_um,5,60,1,1,0.0,1.0,1.0,False
+SAC_SG_Ductal,Other KC/SAC,median_x_um,12,19,4,2,8.0,0.13333333333333333,0.9858156028368794,False
+SAC_SG_Ductal,Other KC/SAC,median_x_um,12,26,4,2,0.0,0.13333333333333333,0.9858156028368794,False
+SAC_SG_Ductal,Other KC/SAC,median_x_um,12,60,4,1,0.0,0.4,0.9858156028368794,False
+SAC_SG_Ductal,Other KC/SAC,median_x_um,19,26,2,2,0.0,0.3333333333333333,0.9858156028368794,False
+SAC_SG_Ductal,Other KC/SAC,median_x_um,19,60,2,1,0.0,0.6666666666666666,0.9858156028368794,False
+SAC_SG_Ductal,Other KC/SAC,median_x_um,26,60,2,1,0.0,0.6666666666666666,0.9858156028368794,False
+SAC_SG_Ductal,Other KC/SAC,median_depth,5,12,1,4,0.0,0.4,0.9858156028368794,False
+SAC_SG_Ductal,Other KC/SAC,median_depth,5,19,1,2,2.0,0.6666666666666666,0.9858156028368794,False
+SAC_SG_Ductal,Other KC/SAC,median_depth,5,26,1,2,2.0,0.6666666666666666,0.9858156028368794,False
+SAC_SG_Ductal,Other KC/SAC,median_depth,5,60,1,1,1.0,1.0,1.0,False
+SAC_SG_Ductal,Other KC/SAC,median_depth,12,19,4,2,8.0,0.13333333333333333,0.9858156028368794,False
+SAC_SG_Ductal,Other KC/SAC,median_depth,12,26,4,2,8.0,0.13333333333333333,0.9858156028368794,False
+SAC_SG_Ductal,Other KC/SAC,median_depth,12,60,4,1,4.0,0.4,0.9858156028368794,False
+SAC_SG_Ductal,Other KC/SAC,median_depth,19,26,2,2,3.0,0.6666666666666666,0.9858156028368794,False
+SAC_SG_Ductal,Other KC/SAC,median_depth,19,60,2,1,2.0,0.6666666666666666,0.9858156028368794,False
+SAC_SG_Ductal,Other KC/SAC,median_depth,26,60,2,1,2.0,0.6666666666666666,0.9858156028368794,False
+SAC_HF_IRS,Other KC/SAC,median_x_um,5,12,1,4,0.0,0.4,0.9858156028368794,False
+SAC_HF_IRS,Other KC/SAC,median_x_um,5,19,1,2,0.0,0.6666666666666666,0.9858156028368794,False
+SAC_HF_IRS,Other KC/SAC,median_x_um,5,26,1,2,0.0,0.6666666666666666,0.9858156028368794,False
+SAC_HF_IRS,Other KC/SAC,median_x_um,5,60,1,1,0.0,1.0,1.0,False
+SAC_HF_IRS,Other KC/SAC,median_x_um,12,19,4,2,8.0,0.13333333333333333,0.9858156028368794,False
+SAC_HF_IRS,Other KC/SAC,median_x_um,12,26,4,2,0.0,0.13333333333333333,0.9858156028368794,False
+SAC_HF_IRS,Other KC/SAC,median_x_um,12,60,4,1,0.0,0.4,0.9858156028368794,False
+SAC_HF_IRS,Other KC/SAC,median_x_um,19,26,2,2,0.0,0.3333333333333333,0.9858156028368794,False
+SAC_HF_IRS,Other KC/SAC,median_x_um,19,60,2,1,0.0,0.6666666666666666,0.9858156028368794,False
+SAC_HF_IRS,Other KC/SAC,median_x_um,26,60,2,1,0.0,0.6666666666666666,0.9858156028368794,False
+SAC_HF_IRS,Other KC/SAC,median_depth,5,12,1,4,0.0,0.4,0.9858156028368794,False
+SAC_HF_IRS,Other KC/SAC,median_depth,5,19,1,2,2.0,0.6666666666666666,0.9858156028368794,False
+SAC_HF_IRS,Other KC/SAC,median_depth,5,26,1,2,2.0,0.6666666666666666,0.9858156028368794,False
+SAC_HF_IRS,Other KC/SAC,median_depth,5,60,1,1,1.0,1.0,1.0,False
+SAC_HF_IRS,Other KC/SAC,median_depth,12,19,4,2,8.0,0.13333333333333333,0.9858156028368794,False
+SAC_HF_IRS,Other KC/SAC,median_depth,12,26,4,2,8.0,0.13333333333333333,0.9858156028368794,False
+SAC_HF_IRS,Other KC/SAC,median_depth,12,60,4,1,4.0,0.4,0.9858156028368794,False
+SAC_HF_IRS,Other KC/SAC,median_depth,19,26,2,2,4.0,0.3333333333333333,0.9858156028368794,False
+SAC_HF_IRS,Other KC/SAC,median_depth,19,60,2,1,2.0,0.6666666666666666,0.9858156028368794,False
+SAC_HF_IRS,Other KC/SAC,median_depth,26,60,2,1,1.0,1.0,1.0,False
+SAC_HF_ORS,Other KC/SAC,median_x_um,5,12,1,4,0.0,0.4,0.9858156028368794,False
+SAC_HF_ORS,Other KC/SAC,median_x_um,5,19,1,2,0.0,0.6666666666666666,0.9858156028368794,False
+SAC_HF_ORS,Other KC/SAC,median_x_um,5,26,1,2,0.0,0.6666666666666666,0.9858156028368794,False
+SAC_HF_ORS,Other KC/SAC,median_x_um,5,60,1,1,0.0,1.0,1.0,False
+SAC_HF_ORS,Other KC/SAC,median_x_um,12,19,4,2,7.0,0.26666666666666666,0.9858156028368794,False
+SAC_HF_ORS,Other KC/SAC,median_x_um,12,26,4,2,0.0,0.13333333333333333,0.9858156028368794,False
+SAC_HF_ORS,Other KC/SAC,median_x_um,12,60,4,1,0.0,0.4,0.9858156028368794,False
+SAC_HF_ORS,Other KC/SAC,median_x_um,19,26,2,2,0.0,0.3333333333333333,0.9858156028368794,False
+SAC_HF_ORS,Other KC/SAC,median_x_um,19,60,2,1,0.0,0.6666666666666666,0.9858156028368794,False
+SAC_HF_ORS,Other KC/SAC,median_x_um,26,60,2,1,0.0,0.6666666666666666,0.9858156028368794,False
+SAC_HF_ORS,Other KC/SAC,median_depth,5,12,1,4,0.0,0.4,0.9858156028368794,False
+SAC_HF_ORS,Other KC/SAC,median_depth,5,19,1,2,2.0,0.6666666666666666,0.9858156028368794,False
+SAC_HF_ORS,Other KC/SAC,median_depth,5,26,1,2,2.0,0.6666666666666666,0.9858156028368794,False
+SAC_HF_ORS,Other KC/SAC,median_depth,5,60,1,1,1.0,1.0,1.0,False
+SAC_HF_ORS,Other KC/SAC,median_depth,12,19,4,2,8.0,0.13333333333333333,0.9858156028368794,False
+SAC_HF_ORS,Other KC/SAC,median_depth,12,26,4,2,8.0,0.13333333333333333,0.9858156028368794,False
+SAC_HF_ORS,Other KC/SAC,median_depth,12,60,4,1,4.0,0.4,0.9858156028368794,False
+SAC_HF_ORS,Other KC/SAC,median_depth,19,26,2,2,4.0,0.3333333333333333,0.9858156028368794,False
+SAC_HF_ORS,Other KC/SAC,median_depth,19,60,2,1,2.0,0.6666666666666666,0.9858156028368794,False
+SAC_HF_ORS,Other KC/SAC,median_depth,26,60,2,1,1.0,1.0,1.0,False
+SAC_HF_HFSC,Other KC/SAC,median_x_um,5,12,1,4,0.0,0.4,0.9858156028368794,False
+SAC_HF_HFSC,Other KC/SAC,median_x_um,5,19,1,2,1.0,1.0,1.0,False
+SAC_HF_HFSC,Other KC/SAC,median_x_um,5,26,1,2,0.0,0.6666666666666666,0.9858156028368794,False
+SAC_HF_HFSC,Other KC/SAC,median_x_um,5,60,1,1,0.0,1.0,1.0,False
+SAC_HF_HFSC,Other KC/SAC,median_x_um,12,19,4,2,8.0,0.13333333333333333,0.9858156028368794,False
+SAC_HF_HFSC,Other KC/SAC,median_x_um,12,26,4,2,4.0,1.0,1.0,False
+SAC_HF_HFSC,Other KC/SAC,median_x_um,12,60,4,1,0.0,0.4,0.9858156028368794,False
+SAC_HF_HFSC,Other KC/SAC,median_x_um,19,26,2,2,0.0,0.3333333333333333,0.9858156028368794,False
+SAC_HF_HFSC,Other KC/SAC,median_x_um,19,60,2,1,0.0,0.6666666666666666,0.9858156028368794,False
+SAC_HF_HFSC,Other KC/SAC,median_x_um,26,60,2,1,0.0,0.6666666666666666,0.9858156028368794,False
+SAC_HF_HFSC,Other KC/SAC,median_depth,5,12,1,4,0.0,0.4,0.9858156028368794,False
+SAC_HF_HFSC,Other KC/SAC,median_depth,5,19,1,2,2.0,0.6666666666666666,0.9858156028368794,False
+SAC_HF_HFSC,Other KC/SAC,median_depth,5,26,1,2,2.0,0.6666666666666666,0.9858156028368794,False
+SAC_HF_HFSC,Other KC/SAC,median_depth,5,60,1,1,1.0,1.0,1.0,False
+SAC_HF_HFSC,Other KC/SAC,median_depth,12,19,4,2,8.0,0.13333333333333333,0.9858156028368794,False
+SAC_HF_HFSC,Other KC/SAC,median_depth,12,26,4,2,8.0,0.13333333333333333,0.9858156028368794,False
+SAC_HF_HFSC,Other KC/SAC,median_depth,12,60,4,1,4.0,0.4,0.9858156028368794,False
+SAC_HF_HFSC,Other KC/SAC,median_depth,19,26,2,2,4.0,0.3333333333333333,0.9858156028368794,False
+SAC_HF_HFSC,Other KC/SAC,median_depth,19,60,2,1,2.0,0.6666666666666666,0.9858156028368794,False
+SAC_HF_HFSC,Other KC/SAC,median_depth,26,60,2,1,2.0,0.6666666666666666,0.9858156028368794,False
+SAC_HF_DP_DS,Other KC/SAC,median_x_um,5,12,1,4,0.0,0.4,0.9858156028368794,False
+SAC_HF_DP_DS,Other KC/SAC,median_x_um,5,19,1,2,2.0,0.6666666666666666,0.9858156028368794,False
+SAC_HF_DP_DS,Other KC/SAC,median_x_um,5,26,1,2,0.0,0.6666666666666666,0.9858156028368794,False
+SAC_HF_DP_DS,Other KC/SAC,median_x_um,5,60,1,1,0.0,1.0,1.0,False
+SAC_HF_DP_DS,Other KC/SAC,median_x_um,12,19,4,2,8.0,0.13333333333333333,0.9858156028368794,False
+SAC_HF_DP_DS,Other KC/SAC,median_x_um,12,26,4,2,4.0,1.0,1.0,False
+SAC_HF_DP_DS,Other KC/SAC,median_x_um,12,60,4,1,0.0,0.4,0.9858156028368794,False
+SAC_HF_DP_DS,Other KC/SAC,median_x_um,19,26,2,2,0.0,0.3333333333333333,0.9858156028368794,False
+SAC_HF_DP_DS,Other KC/SAC,median_x_um,19,60,2,1,0.0,0.6666666666666666,0.9858156028368794,False
+SAC_HF_DP_DS,Other KC/SAC,median_x_um,26,60,2,1,0.0,0.6666666666666666,0.9858156028368794,False
+SAC_HF_DP_DS,Other KC/SAC,median_depth,5,12,1,4,0.0,0.4,0.9858156028368794,False
+SAC_HF_DP_DS,Other KC/SAC,median_depth,5,19,1,2,2.0,0.6666666666666666,0.9858156028368794,False
+SAC_HF_DP_DS,Other KC/SAC,median_depth,5,26,1,2,2.0,0.6666666666666666,0.9858156028368794,False
+SAC_HF_DP_DS,Other KC/SAC,median_depth,5,60,1,1,1.0,1.0,1.0,False
+SAC_HF_DP_DS,Other KC/SAC,median_depth,12,19,4,2,8.0,0.13333333333333333,0.9858156028368794,False
+SAC_HF_DP_DS,Other KC/SAC,median_depth,12,26,4,2,8.0,0.13333333333333333,0.9858156028368794,False
+SAC_HF_DP_DS,Other KC/SAC,median_depth,12,60,4,1,4.0,0.4,0.9858156028368794,False
+SAC_HF_DP_DS,Other KC/SAC,median_depth,19,26,2,2,1.0,0.6666666666666666,0.9858156028368794,False
+SAC_HF_DP_DS,Other KC/SAC,median_depth,19,60,2,1,2.0,0.6666666666666666,0.9858156028368794,False
+SAC_HF_DP_DS,Other KC/SAC,median_depth,26,60,2,1,2.0,0.6666666666666666,0.9858156028368794,False
+SAC_HF_Matrix,Other KC/SAC,median_x_um,5,12,1,4,0.0,0.4,0.9858156028368794,False
+SAC_HF_Matrix,Other KC/SAC,median_x_um,5,19,1,2,0.0,0.6666666666666666,0.9858156028368794,False
+SAC_HF_Matrix,Other KC/SAC,median_x_um,5,26,1,2,0.0,0.6666666666666666,0.9858156028368794,False
+SAC_HF_Matrix,Other KC/SAC,median_x_um,5,60,1,1,0.0,1.0,1.0,False
+SAC_HF_Matrix,Other KC/SAC,median_x_um,12,19,4,2,8.0,0.13333333333333333,0.9858156028368794,False
+SAC_HF_Matrix,Other KC/SAC,median_x_um,12,26,4,2,5.0,0.8,1.0,False
+SAC_HF_Matrix,Other KC/SAC,median_x_um,12,60,4,1,0.0,0.4,0.9858156028368794,False
+SAC_HF_Matrix,Other KC/SAC,median_x_um,19,26,2,2,1.0,0.6666666666666666,0.9858156028368794,False
+SAC_HF_Matrix,Other KC/SAC,median_x_um,19,60,2,1,0.0,0.6666666666666666,0.9858156028368794,False
+SAC_HF_Matrix,Other KC/SAC,median_x_um,26,60,2,1,0.0,0.6666666666666666,0.9858156028368794,False
+SAC_HF_Matrix,Other KC/SAC,median_depth,5,12,1,4,1.0,0.8,1.0,False
+SAC_HF_Matrix,Other KC/SAC,median_depth,5,19,1,2,2.0,0.6666666666666666,0.9858156028368794,False
+SAC_HF_Matrix,Other KC/SAC,median_depth,5,26,1,2,2.0,0.6666666666666666,0.9858156028368794,False
+SAC_HF_Matrix,Other KC/SAC,median_depth,5,60,1,1,1.0,1.0,1.0,False
+SAC_HF_Matrix,Other KC/SAC,median_depth,12,19,4,2,8.0,0.13333333333333333,0.9858156028368794,False
+SAC_HF_Matrix,Other KC/SAC,median_depth,12,26,4,2,8.0,0.13333333333333333,0.9858156028368794,False
+SAC_HF_Matrix,Other KC/SAC,median_depth,12,60,4,1,4.0,0.4,0.9858156028368794,False
+SAC_HF_Matrix,Other KC/SAC,median_depth,19,26,2,2,4.0,0.3333333333333333,0.9858156028368794,False
+SAC_HF_Matrix,Other KC/SAC,median_depth,19,60,2,1,2.0,0.6666666666666666,0.9858156028368794,False
+SAC_HF_Matrix,Other KC/SAC,median_depth,2…6470 tokens truncated…66666,0.9858156028368794,False
+Schwann,Fib/Endo,median_x_um,26,60,2,1,0.0,0.6666666666666666,0.9858156028368794,False
+Schwann,Fib/Endo,median_depth,5,12,1,4,3.0,0.8,1.0,False
+Schwann,Fib/Endo,median_depth,5,19,1,2,2.0,0.6666666666666666,0.9858156028368794,False
+Schwann,Fib/Endo,median_depth,5,26,1,2,2.0,0.6666666666666666,0.9858156028368794,False
+Schwann,Fib/Endo,median_depth,5,60,1,1,1.0,1.0,1.0,False
+Schwann,Fib/Endo,median_depth,12,19,4,2,4.0,1.0,1.0,False
+Schwann,Fib/Endo,median_depth,12,26,4,2,6.0,0.5333333333333333,0.9858156028368794,False
+Schwann,Fib/Endo,median_depth,12,60,4,1,4.0,0.4,0.9858156028368794,False
+Schwann,Fib/Endo,median_depth,19,26,2,2,2.0,1.0,1.0,False
+Schwann,Fib/Endo,median_depth,19,60,2,1,2.0,0.6666666666666666,0.9858156028368794,False
+Schwann,Fib/Endo,median_depth,26,60,2,1,1.0,1.0,1.0,False
+M1_Macrophage,Immune,median_x_um,5,12,1,4,0.0,0.4,0.9858156028368794,False
+M1_Macrophage,Immune,median_x_um,5,19,1,2,1.0,1.0,1.0,False
+M1_Macrophage,Immune,median_x_um,5,26,1,2,0.0,0.6666666666666666,0.9858156028368794,False
+M1_Macrophage,Immune,median_x_um,5,60,1,1,0.0,1.0,1.0,False
+M1_Macrophage,Immune,median_x_um,12,19,4,2,7.0,0.26666666666666666,0.9858156028368794,False
+M1_Macrophage,Immune,median_x_um,12,26,4,2,3.0,0.8,1.0,False
+M1_Macrophage,Immune,median_x_um,12,60,4,1,0.0,0.4,0.9858156028368794,False
+M1_Macrophage,Immune,median_x_um,19,26,2,2,0.0,0.3333333333333333,0.9858156028368794,False
+M1_Macrophage,Immune,median_x_um,19,60,2,1,0.0,0.6666666666666666,0.9858156028368794,False
+M1_Macrophage,Immune,median_x_um,26,60,2,1,0.0,0.6666666666666666,0.9858156028368794,False
+M1_Macrophage,Immune,median_depth,5,12,1,4,4.0,0.4,0.9858156028368794,False
+M1_Macrophage,Immune,median_depth,5,19,1,2,2.0,0.6666666666666666,0.9858156028368794,False
+M1_Macrophage,Immune,median_depth,5,26,1,2,1.0,1.0,1.0,False
+M1_Macrophage,Immune,median_depth,5,60,1,1,1.0,1.0,1.0,False
+M1_Macrophage,Immune,median_depth,12,19,4,2,6.0,0.5333333333333333,0.9858156028368794,False
+M1_Macrophage,Immune,median_depth,12,26,4,2,4.0,1.0,1.0,False
+M1_Macrophage,Immune,median_depth,12,60,4,1,3.0,0.8,1.0,False
+M1_Macrophage,Immune,median_depth,19,26,2,2,2.0,1.0,1.0,False
+M1_Macrophage,Immune,median_depth,19,60,2,1,2.0,0.6666666666666666,0.9858156028368794,False
+M1_Macrophage,Immune,median_depth,26,60,2,1,1.0,1.0,1.0,False
+M2_Macrophage,Immune,median_x_um,5,12,1,4,0.0,0.4,0.9858156028368794,False
+M2_Macrophage,Immune,median_x_um,5,19,1,2,0.0,0.6666666666666666,0.9858156028368794,False
+M2_Macrophage,Immune,median_x_um,5,26,1,2,0.0,0.6666666666666666,0.9858156028368794,False
+M2_Macrophage,Immune,median_x_um,5,60,1,1,0.0,1.0,1.0,False
+M2_Macrophage,Immune,median_x_um,12,19,4,2,6.0,0.5333333333333333,0.9858156028368794,False
+M2_Macrophage,Immune,median_x_um,12,26,4,2,2.0,0.5333333333333333,0.9858156028368794,False
+M2_Macrophage,Immune,median_x_um,12,60,4,1,0.0,0.4,0.9858156028368794,False
+M2_Macrophage,Immune,median_x_um,19,26,2,2,0.0,0.3333333333333333,0.9858156028368794,False
+M2_Macrophage,Immune,median_x_um,19,60,2,1,0.0,0.6666666666666666,0.9858156028368794,False
+M2_Macrophage,Immune,median_x_um,26,60,2,1,0.0,0.6666666666666666,0.9858156028368794,False
+M2_Macrophage,Immune,median_depth,5,12,1,4,2.0,1.0,1.0,False
+M2_Macrophage,Immune,median_depth,5,19,1,2,2.0,0.6666666666666666,0.9858156028368794,False
+M2_Macrophage,Immune,median_depth,5,26,1,2,1.0,1.0,1.0,False
+M2_Macrophage,Immune,median_depth,5,60,1,1,1.0,1.0,1.0,False
+M2_Macrophage,Immune,median_depth,12,19,4,2,8.0,0.13333333333333333,0.9858156028368794,False
+M2_Macrophage,Immune,median_depth,12,26,4,2,6.0,0.5333333333333333,0.9858156028368794,False
+M2_Macrophage,Immune,median_depth,12,60,4,1,4.0,0.4,0.9858156028368794,False
+M2_Macrophage,Immune,median_depth,19,26,2,2,2.0,1.0,1.0,False
+M2_Macrophage,Immune,median_depth,19,60,2,1,2.0,0.6666666666666666,0.9858156028368794,False
+M2_Macrophage,Immune,median_depth,26,60,2,1,2.0,0.6666666666666666,0.9858156028368794,False
+LAM,Immune,median_x_um,5,12,1,4,0.0,0.4,0.9858156028368794,False
+LAM,Immune,median_x_um,5,19,1,2,1.0,1.0,1.0,False
+LAM,Immune,median_x_um,5,26,1,2,0.0,0.6666666666666666,0.9858156028368794,False
+LAM,Immune,median_x_um,5,60,1,1,0.0,1.0,1.0,False
+LAM,Immune,median_x_um,12,19,4,2,8.0,0.13333333333333333,0.9858156028368794,False
+LAM,Immune,median_x_um,12,26,4,2,5.0,0.8,1.0,False
+LAM,Immune,median_x_um,12,60,4,1,0.0,0.4,0.9858156028368794,False
+LAM,Immune,median_x_um,19,26,2,2,0.0,0.3333333333333333,0.9858156028368794,False
+LAM,Immune,median_x_um,19,60,2,1,0.0,0.6666666666666666,0.9858156028368794,False
+LAM,Immune,median_x_um,26,60,2,1,0.0,0.6666666666666666,0.9858156028368794,False
+LAM,Immune,median_depth,5,12,1,4,4.0,0.4,0.9858156028368794,False
+LAM,Immune,median_depth,5,19,1,2,2.0,0.6666666666666666,0.9858156028368794,False
+LAM,Immune,median_depth,5,26,1,2,2.0,0.6666666666666666,0.9858156028368794,False
+LAM,Immune,median_depth,5,60,1,1,1.0,1.0,1.0,False
+LAM,Immune,median_depth,12,19,4,2,6.0,0.5333333333333333,0.9858156028368794,False
+LAM,Immune,median_depth,12,26,4,2,0.0,0.13333333333333333,0.9858156028368794,False
+LAM,Immune,median_depth,12,60,4,1,2.0,1.0,1.0,False
+LAM,Immune,median_depth,19,26,2,2,0.0,0.3333333333333333,0.9858156028368794,False
+LAM,Immune,median_depth,19,60,2,1,0.0,0.6666666666666666,0.9858156028368794,False
+LAM,Immune,median_depth,26,60,2,1,2.0,0.6666666666666666,0.9858156028368794,False
+Neutrophil,Immune,median_x_um,5,12,1,4,0.0,0.4,0.9858156028368794,False
+Neutrophil,Immune,median_x_um,5,19,1,2,2.0,0.6666666666666666,0.9858156028368794,False
+Neutrophil,Immune,median_x_um,5,26,1,2,0.0,0.6666666666666666,0.9858156028368794,False
+Neutrophil,Immune,median_x_um,5,60,1,1,0.0,1.0,1.0,False
+Neutrophil,Immune,median_x_um,12,19,4,2,8.0,0.13333333333333333,0.9858156028368794,False
+Neutrophil,Immune,median_x_um,12,26,4,2,8.0,0.13333333333333333,0.9858156028368794,False
+Neutrophil,Immune,median_x_um,12,60,4,1,1.0,0.8,1.0,False
+Neutrophil,Immune,median_x_um,19,26,2,2,0.0,0.3333333333333333,0.9858156028368794,False
+Neutrophil,Immune,median_x_um,19,60,2,1,0.0,0.6666666666666666,0.9858156028368794,False
+Neutrophil,Immune,median_x_um,26,60,2,1,0.0,0.6666666666666666,0.9858156028368794,False
+Neutrophil,Immune,median_depth,5,12,1,4,3.0,0.8,1.0,False
+Neutrophil,Immune,median_depth,5,19,1,2,2.0,0.6666666666666666,0.9858156028368794,False
+Neutrophil,Immune,median_depth,5,26,1,2,0.0,0.6666666666666666,0.9858156028368794,False
+Neutrophil,Immune,median_depth,5,60,1,1,1.0,1.0,1.0,False
+Neutrophil,Immune,median_depth,12,19,4,2,5.0,0.8,1.0,False
+Neutrophil,Immune,median_depth,12,26,4,2,1.0,0.26666666666666666,0.9858156028368794,False
+Neutrophil,Immune,median_depth,12,60,4,1,3.0,0.8,1.0,False
+Neutrophil,Immune,median_depth,19,26,2,2,0.0,0.3333333333333333,0.9858156028368794,False
+Neutrophil,Immune,median_depth,19,60,2,1,1.0,1.0,1.0,False
+Neutrophil,Immune,median_depth,26,60,2,1,2.0,0.6666666666666666,0.9858156028368794,False
+Mast,Immune,median_x_um,5,12,1,4,0.0,0.4,0.9858156028368794,False
+Mast,Immune,median_x_um,5,19,1,2,1.0,1.0,1.0,False
+Mast,Immune,median_x_um,5,26,1,2,0.0,0.6666666666666666,0.9858156028368794,False
+Mast,Immune,median_x_um,5,60,1,1,0.0,1.0,1.0,False
+Mast,Immune,median_x_um,12,19,4,2,8.0,0.13333333333333333,0.9858156028368794,False
+Mast,Immune,median_x_um,12,26,4,2,5.0,0.8,1.0,False
+Mast,Immune,median_x_um,12,60,4,1,0.0,0.4,0.9858156028368794,False
+Mast,Immune,median_x_um,19,26,2,2,0.0,0.3333333333333333,0.9858156028368794,False
+Mast,Immune,median_x_um,19,60,2,1,0.0,0.6666666666666666,0.9858156028368794,False
+Mast,Immune,median_x_um,26,60,2,1,0.0,0.6666666666666666,0.9858156028368794,False
+Mast,Immune,median_depth,5,12,1,4,4.0,0.4,0.9858156028368794,False
+Mast,Immune,median_depth,5,19,1,2,2.0,0.6666666666666666,0.9858156028368794,False
+Mast,Immune,median_depth,5,26,1,2,2.0,0.6666666666666666,0.9858156028368794,False
+Mast,Immune,median_depth,5,60,1,1,1.0,1.0,1.0,False
+Mast,Immune,median_depth,12,19,4,2,6.0,0.5333333333333333,0.9858156028368794,False
+Mast,Immune,median_depth,12,26,4,2,5.0,0.8,1.0,False
+Mast,Immune,median_depth,12,60,4,1,3.0,0.8,1.0,False
+Mast,Immune,median_depth,19,26,2,2,2.0,1.0,1.0,False
+Mast,Immune,median_depth,19,60,2,1,2.0,0.6666666666666666,0.9858156028368794,False
+Mast,Immune,median_depth,26,60,2,1,2.0,0.6666666666666666,0.9858156028368794,False
+cDC1,Immune,median_x_um,5,12,1,4,0.0,0.4,0.9858156028368794,False
+cDC1,Immune,median_x_um,5,19,1,2,1.0,1.0,1.0,False
+cDC1,Immune,median_x_um,5,26,1,2,0.0,0.6666666666666666,0.9858156028368794,False
+cDC1,Immune,median_x_um,5,60,1,1,0.0,1.0,1.0,False
+cDC1,Immune,median_x_um,12,19,4,2,8.0,0.13333333333333333,0.9858156028368794,False
+cDC1,Immune,median_x_um,12,26,4,2,4.0,1.0,1.0,False
+cDC1,Immune,median_x_um,12,60,4,1,0.0,0.4,0.9858156028368794,False
+cDC1,Immune,median_x_um,19,26,2,2,0.0,0.3333333333333333,0.9858156028368794,False
+cDC1,Immune,median_x_um,19,60,2,1,0.0,0.6666666666666666,0.9858156028368794,False
+cDC1,Immune,median_x_um,26,60,2,1,0.0,0.6666666666666666,0.9858156028368794,False
+cDC1,Immune,median_depth,5,12,1,4,3.0,0.8,1.0,False
+cDC1,Immune,median_depth,5,19,1,2,2.0,0.6666666666666666,0.9858156028368794,False
+cDC1,Immune,median_depth,5,26,1,2,2.0,0.6666666666666666,0.9858156028368794,False
+cDC1,Immune,median_depth,5,60,1,1,1.0,1.0,1.0,False
+cDC1,Immune,median_depth,12,19,4,2,7.0,0.26666666666666666,0.9858156028368794,False
+cDC1,Immune,median_depth,12,26,4,2,6.0,0.5333333333333333,0.9858156028368794,False
+cDC1,Immune,median_depth,12,60,4,1,3.0,0.8,1.0,False
+cDC1,Immune,median_depth,19,26,2,2,1.0,0.6666666666666666,0.9858156028368794,False
+cDC1,Immune,median_depth,19,60,2,1,0.0,0.6666666666666666,0.9858156028368794,False
+cDC1,Immune,median_depth,26,60,2,1,1.0,1.0,1.0,False
+cDC2,Immune,median_x_um,5,12,1,4,1.0,0.8,1.0,False
+cDC2,Immune,median_x_um,5,19,1,2,2.0,0.6666666666666666,0.9858156028368794,False
+cDC2,Immune,median_x_um,5,26,1,2,0.0,0.6666666666666666,0.9858156028368794,False
+cDC2,Immune,median_x_um,5,60,1,1,0.0,1.0,1.0,False
+cDC2,Immune,median_x_um,12,19,4,2,8.0,0.13333333333333333,0.9858156028368794,False
+cDC2,Immune,median_x_um,12,26,4,2,4.0,1.0,1.0,False
+cDC2,Immune,median_x_um,12,60,4,1,1.0,0.8,1.0,False
+cDC2,Immune,median_x_um,19,26,2,2,0.0,0.3333333333333333,0.9858156028368794,False
+cDC2,Immune,median_x_um,19,60,2,1,0.0,0.6666666666666666,0.9858156028368794,False
+cDC2,Immune,median_x_um,26,60,2,1,0.0,0.6666666666666666,0.9858156028368794,False
+cDC2,Immune,median_depth,5,12,1,4,4.0,0.4,0.9858156028368794,False
+cDC2,Immune,median_depth,5,19,1,2,2.0,0.6666666666666666,0.9858156028368794,False
+cDC2,Immune,median_depth,5,26,1,2,2.0,0.6666666666666666,0.9858156028368794,False
+cDC2,Immune,median_depth,5,60,1,1,1.0,1.0,1.0,False
+cDC2,Immune,median_depth,12,19,4,2,3.0,0.8,1.0,False
+cDC2,Immune,median_depth,12,26,4,2,8.0,0.13333333333333333,0.9858156028368794,False
+cDC2,Immune,median_depth,12,60,4,1,4.0,0.4,0.9858156028368794,False
+cDC2,Immune,median_depth,19,26,2,2,4.0,0.3333333333333333,0.9858156028368794,False
+cDC2,Immune,median_depth,19,60,2,1,2.0,0.6666666666666666,0.9858156028368794,False
+cDC2,Immune,median_depth,26,60,2,1,2.0,0.6666666666666666,0.9858156028368794,False
+pDC,Immune,median_x_um,5,12,1,4,0.0,0.4,0.9858156028368794,False
+pDC,Immune,median_x_um,5,19,1,2,1.0,1.0,1.0,False
+pDC,Immune,median_x_um,5,26,1,2,0.0,0.6666666666666666,0.9858156028368794,False
+pDC,Immune,median_x_um,5,60,1,1,0.0,1.0,1.0,False
+pDC,Immune,median_x_um,12,19,4,2,8.0,0.13333333333333333,0.9858156028368794,False
+pDC,Immune,median_x_um,12,26,4,2,5.0,0.8,1.0,False
+pDC,Immune,median_x_um,12,60,4,1,0.0,0.4,0.9858156028368794,False
+pDC,Immune,median_x_um,19,26,2,2,0.0,0.3333333333333333,0.9858156028368794,False
+pDC,Immune,median_x_um,19,60,2,1,0.0,0.6666666666666666,0.9858156028368794,False
+pDC,Immune,median_x_um,26,60,2,1,0.0,0.6666666666666666,0.9858156028368794,False
+pDC,Immune,median_depth,5,12,1,4,4.0,0.4,0.9858156028368794,False
+pDC,Immune,median_depth,5,19,1,2,2.0,0.6666666666666666,0.9858156028368794,False
+pDC,Immune,median_depth,5,26,1,2,2.0,0.6666666666666666,0.9858156028368794,False
+pDC,Immune,median_depth,5,60,1,1,1.0,1.0,1.0,False
+pDC,Immune,median_depth,12,19,4,2,6.0,0.5333333333333333,0.9858156028368794,False
+pDC,Immune,median_depth,12,26,4,2,5.0,0.8,1.0,False
+pDC,Immune,median_depth,12,60,4,1,3.0,0.8,1.0,False
+pDC,Immune,median_depth,19,26,2,2,2.0,1.0,1.0,False
+pDC,Immune,median_depth,19,60,2,1,1.0,1.0,1.0,False
+pDC,Immune,median_depth,26,60,2,1,1.0,1.0,1.0,False
+LGHS,Immune,median_x_um,12,19,1,1,0.0,1.0,1.0,False
+LGHS,Immune,median_x_um,12,26,1,1,0.0,1.0,1.0,False
+LGHS,Immune,median_x_um,19,26,1,1,0.0,1.0,1.0,False
+LGHS,Immune,median_depth,12,19,1,1,1.0,1.0,1.0,False
+LGHS,Immune,median_depth,12,26,1,1,1.0,1.0,1.0,False
+LGHS,Immune,median_depth,19,26,1,1,0.0,1.0,1.0,False
+B_Mature,Immune,median_x_um,5,12,1,4,0.0,0.4,0.9858156028368794,False
+B_Mature,Immune,median_x_um,5,19,1,2,1.0,1.0,1.0,False
+B_Mature,Immune,median_x_um,5,26,1,2,0.0,0.6666666666666666,0.9858156028368794,False
+B_Mature,Immune,median_x_um,5,60,1,1,0.0,1.0,1.0,False
+B_Mature,Immune,median_x_um,12,19,4,2,8.0,0.13333333333333333,0.9858156028368794,False
+B_Mature,Immune,median_x_um,12,26,4,2,5.0,0.8,1.0,False
+B_Mature,Immune,median_x_um,12,60,4,1,0.0,0.4,0.9858156028368794,False
+B_Mature,Immune,median_x_um,19,26,2,2,0.0,0.3333333333333333,0.9858156028368794,False
+B_Mature,Immune,median_x_um,19,60,2,1,0.0,0.6666666666666666,0.9858156028368794,False
+B_Mature,Immune,median_x_um,26,60,2,1,0.0,0.6666666666666666,0.9858156028368794,False
+B_Mature,Immune,median_depth,5,12,1,4,4.0,0.4,0.9858156028368794,False
+B_Mature,Immune,median_depth,5,19,1,2,2.0,0.6666666666666666,0.9858156028368794,False
+B_Mature,Immune,median_depth,5,26,1,2,2.0,0.6666666666666666,0.9858156028368794,False
+B_Mature,Immune,median_depth,5,60,1,1,1.0,1.0,1.0,False
+B_Mature,Immune,median_depth,12,19,4,2,8.0,0.13333333333333333,0.9858156028368794,False
+B_Mature,Immune,median_depth,12,26,4,2,3.0,0.8,1.0,False
+B_Mature,Immune,median_depth,12,60,4,1,4.0,0.4,0.9858156028368794,False
+B_Mature,Immune,median_depth,19,26,2,2,0.0,0.3333333333333333,0.9858156028368794,False
+B_Mature,Immune,median_depth,19,60,2,1,1.0,1.0,1.0,False
+B_Mature,Immune,median_depth,26,60,2,1,2.0,0.6666666666666666,0.9858156028368794,False
+B_Plasma,Immune,median_x_um,5,12,1,4,0.0,0.4,0.9858156028368794,False
+B_Plasma,Immune,median_x_um,5,19,1,2,1.0,1.0,1.0,False
+B_Plasma,Immune,median_x_um,5,26,1,2,0.0,0.6666666666666666,0.9858156028368794,False
+B_Plasma,Immune,median_x_um,5,60,1,1,0.0,1.0,1.0,False
+B_Plasma,Immune,median_x_um,12,19,4,2,8.0,0.13333333333333333,0.9858156028368794,False
+B_Plasma,Immune,median_x_um,12,26,4,2,3.0,0.8,1.0,False
+B_Plasma,Immune,median_x_um,12,60,4,1,0.0,0.4,0.9858156028368794,False
+B_Plasma,Immune,median_x_um,19,26,2,2,0.0,0.3333333333333333,0.9858156028368794,False
+B_Plasma,Immune,median_x_um,19,60,2,1,0.0,0.6666666666666666,0.9858156028368794,False
+B_Plasma,Immune,median_x_um,26,60,2,1,0.0,0.6666666666666666,0.9858156028368794,False
+B_Plasma,Immune,median_depth,5,12,1,4,1.0,0.8,1.0,False
+B_Plasma,Immune,median_depth,5,19,1,2,2.0,0.6666666666666666,0.9858156028368794,False
+B_Plasma,Immune,median_depth,5,26,1,2,2.0,0.6666666666666666,0.9858156028368794,False
+B_Plasma,Immune,median_depth,5,60,1,1,1.0,1.0,1.0,False
+B_Plasma,Immune,median_depth,12,19,4,2,8.0,0.13333333333333333,0.9858156028368794,False
+B_Plasma,Immune,median_depth,12,26,4,2,6.0,0.5333333333333333,0.9858156028368794,False
+B_Plasma,Immune,median_depth,12,60,4,1,4.0,0.4,0.9858156028368794,False
+B_Plasma,Immune,median_depth,19,26,2,2,0.0,0.3333333333333333,0.9858156028368794,False
+B_Plasma,Immune,median_depth,19,60,2,1,1.0,1.0,1.0,False
+B_Plasma,Immune,median_depth,26,60,2,1,2.0,0.6666666666666666,0.9858156028368794,False
+CD4_T,Immune,median_x_um,5,12,1,4,0.0,0.4,0.9858156028368794,False
+CD4_T,Immune,median_x_um,5,19,1,2,1.0,1.0,1.0,False
+CD4_T,Immune,median_x_um,5,26,1,2,0.0,0.6666666666666666,0.9858156028368794,False
+CD4_T,Immune,median_x_um,5,60,1,1,0.0,1.0,1.0,False
+CD4_T,Immune,median_x_um,12,19,4,2,8.0,0.13333333333333333,0.9858156028368794,False
+CD4_T,Immune,median_x_um,12,26,4,2,5.0,0.8,1.0,False
+CD4_T,Immune,median_x_um,12,60,4,1,0.0,0.4,0.9858156028368794,False
+CD4_T,Immune,median_x_um,19,26,2,2,0.0,0.3333333333333333,0.9858156028368794,False
+CD4_T,Immune,median_x_um,19,60,2,1,0.0,0.6666666666666666,0.9858156028368794,False
+CD4_T,Immune,median_x_um,26,60,2,1,0.0,0.6666666666666666,0.9858156028368794,False
+CD4_T,Immune,median_depth,5,12,1,4,4.0,0.4,0.9858156028368794,False
+CD4_T,Immune,median_depth,5,19,1,2,2.0,0.6666666666666666,0.9858156028368794,False
+CD4_T,Immune,median_depth,5,26,1,2,2.0,0.6666666666666666,0.9858156028368794,False
+CD4_T,Immune,median_depth,5,60,1,1,1.0,1.0,1.0,False
+CD4_T,Immune,median_depth,12,19,4,2,4.0,1.0,1.0,False
+CD4_T,Immune,median_depth,12,26,4,2,5.0,0.8,1.0,False
+CD4_T,Immune,median_depth,12,60,4,1,2.0,1.0,1.0,False
+CD4_T,Immune,median_depth,19,26,2,2,2.0,1.0,1.0,False
+CD4_T,Immune,median_depth,19,60,2,1,0.0,0.6666666666666666,0.9858156028368794,False
+CD4_T,Immune,median_depth,26,60,2,1,1.0,1.0,1.0,False
+CD8_T,Immune,median_x_um,5,12,1,4,0.0,0.4,0.9858156028368794,False
+CD8_T,Immune,median_x_um,5,19,1,2,1.0,1.0,1.0,False
+CD8_T,Immune,median_x_um,5,26,1,2,0.0,0.6666666666666666,0.9858156028368794,False
+CD8_T,Immune,median_x_um,5,60,1,1,0.0,1.0,1.0,False
+CD8_T,Immune,median_x_um,12,19,4,2,8.0,0.13333333333333333,0.9858156028368794,False
+CD8_T,Immune,median_x_um,12,26,4,2,4.0,1.0,1.0,False
+CD8_T,Immune,median_x_um,12,60,4,1,1.0,0.8,1.0,False
+CD8_T,Immune,median_x_um,19,26,2,2,0.0,0.3333333333333333,0.9858156028368794,False
+CD8_T,Immune,median_x_um,19,60,2,1,0.0,0.6666666666666666,0.9858156028368794,False
+CD8_T,Immune,median_x_um,26,60,2,1,0.0,0.6666666666666666,0.9858156028368794,False
+CD8_T,Immune,median_depth,5,12,1,4,3.0,0.8,1.0,False
+CD8_T,Immune,median_depth,5,19,1,2,2.0,0.6666666666666666,0.9858156028368794,False
+CD8_T,Immune,median_depth,5,26,1,2,2.0,0.6666666666666666,0.9858156028368794,False
+CD8_T,Immune,median_depth,5,60,1,1,1.0,1.0,1.0,False
+CD8_T,Immune,median_depth,12,19,4,2,5.0,0.8,1.0,False
+CD8_T,Immune,median_depth,12,26,4,2,4.0,1.0,1.0,False
+CD8_T,Immune,median_depth,12,60,4,1,2.0,1.0,1.0,False
+CD8_T,Immune,median_depth,19,26,2,2,2.0,1.0,1.0,False
+CD8_T,Immune,median_depth,19,60,2,1,0.0,0.6666666666666666,0.9858156028368794,False
+CD8_T,Immune,median_depth,26,60,2,1,1.0,1.0,1.0,False
+NK,Immune,median_x_um,5,12,1,4,0.0,0.4,0.9858156028368794,False
+NK,Immune,median_x_um,5,19,1,2,1.0,1.0,1.0,False
+NK,Immune,median_x_um,5,26,1,2,1.0,1.0,1.0,False
+NK,Immune,median_x_um,5,60,1,1,0.0,1.0,1.0,False
+NK,Immune,median_x_um,12,19,4,2,8.0,0.13333333333333333,0.9858156028368794,False
+NK,Immune,median_x_um,12,26,4,2,5.0,0.8,1.0,False
+NK,Immune,median_x_um,12,60,4,1,0.0,0.4,0.9858156028368794,False
+NK,Immune,median_x_um,19,26,2,2,1.0,0.6666666666666666,0.9858156028368794,False
+NK,Immune,median_x_um,19,60,2,1,0.0,0.6666666666666666,0.9858156028368794,False
+NK,Immune,median_x_um,26,60,2,1,0.0,0.6666666666666666,0.9858156028368794,False
+NK,Immune,median_depth,5,12,1,4,4.0,0.4,0.9858156028368794,False
+NK,Immune,median_depth,5,19,1,2,2.0,0.6666666666666666,0.9858156028368794,False
+NK,Immune,median_depth,5,26,1,2,2.0,0.6666666666666666,0.9858156028368794,False
+NK,Immune,median_depth,5,60,1,1,1.0,1.0,1.0,False
+NK,Immune,median_depth,12,19,4,2,6.0,0.5333333333333333,0.9858156028368794,False
+NK,Immune,median_depth,12,26,4,2,3.0,0.8,1.0,False
+NK,Immune,median_depth,12,60,4,1,3.0,0.8,1.0,False
+NK,Immune,median_depth,19,26,2,2,1.0,0.6666666666666666,0.9858156028368794,False
+NK,Immune,median_depth,19,60,2,1,1.0,1.0,1.0,False
+NK,Immune,median_depth,26,60,2,1,1.0,1.0,1.0,False
+
