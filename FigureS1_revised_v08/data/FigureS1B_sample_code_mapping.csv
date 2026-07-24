@@ -1,0 +1,53 @@
+modality,plot_code,sample_id
+scRNA-seq,R01,127-1-Skin-SSDB_Non_Scar-2mph
+scRNA-seq,R02,127-2-Skin-SSDB_Non_Scar-2mph
+scRNA-seq,R03,127-3-Skin-DSDB_Scar-2mph
+scRNA-seq,R04,127-4-Skin-DSDB_Scar-2mph
+scRNA-seq,R05,235-4--8-Skin-Normal-Normal
+scRNA-seq,R06,AJH-255-1-Skin-Normal-Normal
+scRNA-seq,R07,D0-c-1-Skin-Normal-Normal
+scRNA-seq,R08,D0-c-2-Skin-Normal-Normal
+scRNA-seq,R09,DSDB-BGIHZ-Skin-DSDB-5dpb
+scRNA-seq,R10,DSDB-BGIHZ1-Skin-DSDB-26dpb
+scRNA-seq,R11,DSDB-BGIHZ2-Skin-DSDB-26dpb
+scRNA-seq,R12,DSDB-BGIQD1-Skin-DSDB-7dpb
+scRNA-seq,R13,DSDB-BGIQD2-Skin-DSDB-7dpb
+scRNA-seq,R14,DSDB-BGIQD3-Skin-DSDB-7dpb
+scRNA-seq,R15,DSDB-healing-XGY-Skin-DSDB-26dpb
+scRNA-seq,R16,DSDB-healing1-XGY-Skin-DSDB-22dpb
+scRNA-seq,R17,DSDB-healing2-XGY-Skin-DSDB-22dpb
+scRNA-seq,R18,DSDB-JY-Skin-DSDB-12dpb
+scRNA-seq,R19,DSDB-JY-Skin-DSDB-19dpb
+scRNA-seq,R20,DSDB-JY1-Skin-DSDB-6dpb
+scRNA-seq,R21,DSDB-JY2-Skin-DSDB-6dpb
+scRNA-seq,R22,DSDB-nonhealing1-XGY-Skin-DSDB-22dpb
+scRNA-seq,R23,DSDB-nonhealing2-XGY-Skin-DSDB-22dpb
+scRNA-seq,R24,DSDB-XGY-Skin-DSDB-11dpb
+scRNA-seq,R25,DSDB-XGY-Skin-DSDB-12dpb
+scRNA-seq,R26,HNS2-XGY-Skin-Normal-Normal
+scRNA-seq,R27,HNS3-XGY-Skin-Normal-Normal
+scRNA-seq,R28,HNS4-BGIHZ-Skin-Normal-Normal
+scRNA-seq,R29,MCY-158-1-Skin-DSDB_Scar-1mph
+scRNA-seq,R30,MCY-158-2-Skin-DSDB_Scar-1mph
+scRNA-seq,R31,SSDB-BGIQD1-Skin-SSDB-7dpb
+scRNA-seq,R32,SSDB-BGIQD2-Skin-SSDB-7dpb
+scRNA-seq,R33,SSDB-JY-Skin-SSDB-12dpb
+scRNA-seq,R34,SSDB-XGY-Skin-SSDB-10dpb
+scRNA-seq,R35,SSDB-XGY-Skin-SSDB-19dpb
+scRNA-seq,R36,YN-1-Skin-Normal-Normal
+scRNA-seq,R37,YN-2-Skin-Normal-Normal
+scRNA-seq,R38,YN-3-Skin-Normal-Normal
+Stereo-seq,ST01,5 dpb
+Stereo-seq,ST02,12 dpb DPTDI-1
+Stereo-seq,ST03,12 dpb SPTDI-1
+Stereo-seq,ST04,12 dpb DPTDI-2
+Stereo-seq,ST05,12 dpb SPTDI-2
+Stereo-seq,ST06,19 dpb
+Stereo-seq,ST07,19 dpb p1
+Stereo-seq,ST08,26 dpb p1
+Stereo-seq,ST09,26 dpb p2
+Stereo-seq,ST10,2 mph
+Stereo-seq,ST11,Normal
+10x Visium,V01,BW9
+10x Visium,V02,X002
+
