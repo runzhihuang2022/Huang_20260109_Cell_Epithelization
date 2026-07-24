@@ -1,0 +1,15 @@
+Illustrator_version=28.0.0
+source_svg=F:\20250325cell背靠背拒稿\20251214上皮化\20260422rebuttal\联系编辑\Final_Figure_Units\Figure2\supplements\FigureS2_revision_v03\outputs\vector\FigureS2_revised_v03_editable.svg
+ai_path=F:\20250325cell背靠背拒稿\20251214上皮化\20260422rebuttal\联系编辑\Final_Figure_Units\Figure2\supplements\FigureS2_revision_v03\outputs\vector\FigureS2_revised_v03_editable.ai
+width_pt=595.275573730469
+height_pt=841.889709472657
+layers=1
+text_frames=259
+path_items=64003
+group_items=95301
+placed_items=0
+raster_items=3
+pdf_compatible=true
+min_font_pt=6
+max_font_pt=14
+
