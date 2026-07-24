@@ -1,0 +1,17 @@
+IllustratorVersion=28.0.0
+ArtboardRect=0,841.889770507812,595.275573730469,-0.00002949218833
+ArtboardMM=210x297
+Layers=2
+TextFrames=338
+PathItems=1542
+GroupItems=2531
+PlacedItems=0
+RasterItems=42
+MinFontPt=3.33266997337341
+MaxFontPt=12
+FormerPanelFRemoved=true
+FormerPanelGRenumberedToF=true
+PanelFLayout=single_row_five_timepoints
+PanelEAndFCommonScaleBar=1mm
+PanelEAndFCommonMapBox=35.6x6.0mm
+PDFCompatible=true
