@@ -1,0 +1,11 @@
+AI STATUS: COMPLETE
+
+Application: Adobe Illustrator 2024
+Source: outputs/vector/Figure1_final.pdf
+Output: outputs/vector/Figure1_final_editable.ai
+Save mode: IllustratorSaveOptions with PDFCompatible=true
+File size: 5,983,945 bytes
+Header: %PDF-1.6 (expected for PDF-compatible Illustrator document)
+SHA256: 5D0CAE1319796B22360292D5835CB834F1DAD39E7C8C8C0A32867CAAD8B8C4BF
+
+The assembled SVG retains panel groups Figure1A-F. Dense UMAP and spatial point layers are code-rasterized; text, annotations, legends and scale bars remain vector objects. Experimental H&E images remain embedded raster assets.

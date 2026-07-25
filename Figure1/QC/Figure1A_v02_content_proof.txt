@@ -1,0 +1,12 @@
+Figure1A v02 content proof
+- No combined N displayed.
+- Stage-coded wound units: inflammation 9; proliferation 22; remodeling 7.
+- Normal units 11 and time-unencoded Visium units 2 are not assigned to the stage timeline.
+- Bottom scale: human 51 units; rat validation 83 units; scRNA 729587 cells; Stereo 1031523 bins; Visium 2 sections.
+- Human-arm icon and gross clinical photographs removed from the main panel.
+- No fluorescence images included.
+- Mode 4 scarless surface is flat/healed rather than depressed.
+- Mode 2 and Mode 4 H&E are horizontally mirrored.
+- Mirrored raster scale labels are masked and replaced by forward-reading vector scale bars.
+- H&E processing: crop and documented orientation change only; no intensity/color adjustment.
+- Final panel size: 125 x 92 mm; Arial; minimum nominal text size 6 pt.

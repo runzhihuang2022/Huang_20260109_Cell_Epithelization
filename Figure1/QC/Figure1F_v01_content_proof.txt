@@ -1,0 +1,7 @@
+Figure 1F v01
+- Exact registered 11-section subset only.
+- Section-level means are the statistical units; individual section points are shown.
+- 6 mph and 9 mph excluded.
+- Within-process z standardization used for display.
+- Timepoint section counts: Normal 1; 5 dpb 1; 12 dpb 4; 19 dpb 2; 26 dpb 2; 2 mph 1.
+- Two-sided Kruskal-Wallis omnibus tests were added using sections as observational units; all five processes are ns.

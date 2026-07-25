@@ -1,0 +1,5 @@
+display,sample_id,source,rotation_deg,n_bins,processing
+Mode 1 | 5 dpb SPTDI & DPTDI,BW32_A01597A3_SDSDB_5dpb,F:\20250325cell背靠背拒稿\20251214上皮化\20260313重新拼图\时空组学\stereoseq\pdf_output\Wound_Healing_Annotation_Output_White\BW32_A01597A3_SDSDB_5dpb_Annotated.h5ad,135,16821,direct H5AD render; equal aspect; 1 mm vector scale bar
+Mode 2 | 19 dpb SPTDI & DPTDI,BW15D_1_D1_SDSDB_19dpb,F:\20250325cell背靠背拒稿\20251214上皮化\20260313重新拼图\时空组学\stereoseq\pdf_output\Wound_Healing_Annotation_Output_White\BW15D_1_D1_SDSDB_19dpb_Annotated.h5ad,140,47042,direct H5AD render; equal aspect; 1 mm vector scale bar
+Mode 3 | 12 dpb SPTDI,BW14_B3_SSDB_12dpb,F:\20250325cell背靠背拒稿\20251214上皮化\20260313重新拼图\时空组学\stereoseq\pdf_output\Wound_Healing_Annotation_Output_White\BW14_B3_SSDB_12dpb_Annotated.h5ad,135,34538,direct H5AD render; equal aspect; 1 mm vector scale bar
+Mode 4 | 2 mph SPTDI & DPTDI,2mph_A03699G6.SCT,F:\20250325cell背靠背拒稿\20251214上皮化\20260313重新拼图\时空组学\stereoseq\pdf_output\Wound_Healing_Annotation_Output_White\2mph_A03699G6.SCT_Annotated.h5ad,45,90304,direct H5AD render; equal aspect; 1 mm vector scale bar

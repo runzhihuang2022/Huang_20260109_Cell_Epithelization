@@ -1,0 +1,6 @@
+Figure 1D v02
+- Recomputed directly from the 19dpb_p1 H5AD and registered spatial anchors.
+- Overview and all crops use equal aspect; no PPT-derived spatial raster is used.
+- Rotation uses the exact config_wound formula with angle 140 degrees and no additional axis inversion.
+- Mode 2 spatial positions are labeled on the overview and repeated above matched regional crops.
+- Scale-bar style is shared with Figure 1C.

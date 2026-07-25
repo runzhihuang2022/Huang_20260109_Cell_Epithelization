@@ -1,0 +1,6 @@
+Figure 1C v02
+- All four maps were regenerated from registered per-section H5AD objects.
+- No PPT crop is used; every axes uses equal aspect and preserve-by-code sizing.
+- Rotation uses the exact config_wound formula x'=x cos(theta)-y sin(theta), y'=x sin(theta)+y cos(theta), with no additional axis inversion.
+- Scale bars share one vector style and 5.5 pt text.
+- Mode-derived spatial positions are stated above each section.

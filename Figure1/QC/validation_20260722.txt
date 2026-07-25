@@ -1,0 +1,9 @@
+Package validation completed on 2026-07-22.
+
+Result: structure and CSV manifests passed validation.
+Expected pre-redraw warnings:
+- No SVG/PDF vector master found.
+- No AI file found.
+- No assembled figure found.
+
+These outputs remain pending until the cohort-count definition and fluorescence-image source are resolved.

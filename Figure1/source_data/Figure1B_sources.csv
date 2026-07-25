@@ -1,0 +1,3 @@
+element,source,processing
+UMAP coordinates and labels,F:\多组学分析skills\人创面\pbmc_final.h5ad,read directly from X_umap and sub_labels; no PPT extraction
+colors,original annotation color registry,same colors used in UMAP and key swatches

@@ -1,0 +1,5 @@
+Figure 1B v02
+- Recomputed directly from pbmc_final.h5ad (279,305 cells).
+- Original cell-state color registry retained and added to the numbered key.
+- Dense point layer is code-rasterized; labels and key remain vector.
+- No PPT-derived bioinformatics image is used.

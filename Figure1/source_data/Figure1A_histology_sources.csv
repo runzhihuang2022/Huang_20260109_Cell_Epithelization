@@ -1,0 +1,5 @@
+display_order,mode,source_file,crop_left,crop_top,crop_right,crop_bottom,processing
+1,Mode1_unhealed_gradient,F:\20250325cell背靠背拒稿\20251214上皮化\20260422rebuttal\联系编辑\Final_Figure_Units\Figure1\inputs\raw_panels\ppt_slide2_media\image5.png,2,0,545,276,crop only; no intensity or color adjustment
+2,Mode2_one_way_epithelialization,F:\20250325cell背靠背拒稿\20251214上皮化\20260422rebuttal\联系编辑\Final_Figure_Units\Figure1\inputs\raw_panels\ppt_slide2_media\image5.png,584,0,1117,276,crop plus horizontal mirror; reversed raster scale labels masked and redrawn as vector; no intensity or color adjustment
+3,Mode3_almost_healed,F:\20250325cell背靠背拒稿\20251214上皮化\20260422rebuttal\联系编辑\Final_Figure_Units\Figure1\inputs\raw_panels\ppt_slide2_media\image5.png,1153,0,1702,276,crop only; no intensity or color adjustment
+4,Mode4_scar_hyperplasia,F:\20250325cell背靠背拒稿\20251214上皮化\20260422rebuttal\联系编辑\Final_Figure_Units\Figure1\inputs\raw_panels\ppt_slide2_media\image5.png,1741,0,2295,276,crop plus horizontal mirror; reversed raster scale labels masked and redrawn as vector; no intensity or color adjustment

@@ -1,0 +1,26 @@
+FIGURE 1A LAYOUT PROOF — VERSION 01
+Date: 2026-07-22
+
+Visual inspection
+- Full-size 600-dpi PNG inspected after rendering.
+- Timeline, stage labels and three modality-specific counts are separated and legible.
+- No combined N is displayed.
+- Four mode titles, schematics and H&E panels follow the same left-to-right order.
+- Dashed guide lines stop above labels and do not cross label text.
+- H&E black separator bars were removed by correcting source crop boundaries.
+- Full H&E aspect ratios, main scale bars and overview insets are retained.
+- No brightness, contrast, saturation, color or sharpness adjustment was applied.
+- White gutters remain visible between all four columns.
+
+Technical inspection
+- Master size: 125 x 88 mm (PDF media box 124.88 x 87.88 mm after browser rounding).
+- Typeface: Arial with Helvetica/sans-serif fallback.
+- Nominal text range: 6-12 pt at final panel size.
+- SVG parses as valid XML and contains the top-level group Panel_A.
+- PNG dimensions: 2953 x 2079 pixels at 600 dpi.
+- Vector outputs: Figure1A_v01.svg and Figure1A_v01.pdf.
+- Raster outputs: Figure1A_v01_600dpi.png and Figure1A_v01_600dpi.tiff.
+
+Review status
+- Content proof: passed for approved Figure1A specification.
+- Layout proof: passed for version 01; awaiting author visual approval.

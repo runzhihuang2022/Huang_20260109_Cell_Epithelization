@@ -1,0 +1,4 @@
+Figure 1B v01
+- Approved 47-state UMAP retained without point/color alteration.
+- Rasterized high-density UMAP; all titles and the numbered state key remain editable vector text.
+- Arial; key text is 6 pt.

@@ -1,0 +1,16 @@
+{
+  "skill": "spatiotemporal-omics-analysis",
+  "samples": {
+    "19dpb": {
+      "sample_id": "BW15D_C6_SDSDB_19dpb",
+      "anchor": "F:\\20250325cell背靠背拒稿\\20251214上皮化\\20260313重新拼图\\时空组学\\stereoseq\\pdf_output\\mask\\19dpb_spatial_anchors.json"
+    },
+    "19dpb_p1": {
+      "sample_id": "BW15D_1_D1_SDSDB_19dpb",
+      "anchor": "F:\\20250325cell背靠背拒稿\\20251214上皮化\\20260313重新拼图\\时空组学\\stereoseq\\pdf_output\\mask\\19dpb_p1_spatial_anchors.json"
+    }
+  },
+  "Fib_K14_definition": "metadata sub_labels == Fib_K14; strict KRT14/PDGFRA expression retained in expression table",
+  "SCENIC_status": "No pySCENIC AUC/loom matrix detected in this run; KLF4_regulon_proxy is mean expression of predefined KLF4 epithelial/plasticity target genes, not a replacement for true SCENIC AUC.",
+  "axes": "wound_x_um: negative Un-epi, near zero Epi-Front, positive Newly-epi; surface_axis: 0 deep dermis, 1 epidermal surface"
+}

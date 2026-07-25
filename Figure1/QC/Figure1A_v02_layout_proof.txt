@@ -1,0 +1,27 @@
+FIGURE 1A LAYOUT PROOF — VERSION 02
+Date: 2026-07-22
+
+Requested corrections
+- Timeline count row replaced by stage-coded human wound sequencing units: inflammation n=9, proliferation n=22 and remodeling n=7.
+- Mode 4 scarless region redrawn as a flat healed surface.
+- Mode 2 and Mode 4 H&E displayed after horizontal mirroring so healed/hyperplastic tissue is on the left.
+- Mirrored raster scale-bar labels masked and replaced by forward-reading editable vector scale bars.
+- Bottom footer added: 51 human sequencing units, 83 rat validation sequencing units, 729,587 scRNA-seq cells, 1,031,523 Stereo-seq cell bins and 2 Visium sections.
+
+Count reconciliation
+- Human 51 units = 38 scRNA-seq samples + 11 Stereo-seq sections + 2 Visium sections.
+- Stage-coded human wound units = 9 + 22 + 7 = 38.
+- Remaining human units = 11 normal units + 2 Visium sections without encoded sampling time.
+- Rat 83 units = 53 scRNA-seq samples + 30 Stereo-seq sections.
+- scRNA total = 279,305 human + 450,282 rat = 729,587 cells.
+- Stereo total = 387,061 human + 644,462 rat = 1,031,523 cell bins.
+
+Visual QA
+- Full-size 600-dpi PNG inspected.
+- No clipped footer text after increasing panel height to 92 mm.
+- H&E panels preserve full aspect ratios and show forward-reading scale labels.
+- Mode order and H&E order remain identical.
+- No brightness, contrast or color adjustment applied.
+- Arial nominal text size remains 6-12 pt.
+
+Status: ready for author review.

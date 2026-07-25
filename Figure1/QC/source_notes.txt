@@ -1,0 +1,13 @@
+SOURCE AUDIT NOTES — 2026-07-22
+
+- Current user PNG: inputs/current/Figure1_current.png. It displays N=51.
+- Editable source deck: F:\20250325cell背靠背拒稿\20251214上皮化\20260422rebuttal\20260721-上皮化文章拼图.pptx, slide 2. It displays N=49 and contains 14 embedded images plus editable text.
+- Source slide media were extracted to inputs/raw_panels/ppt_slide2_media.
+- Style reference: F:\重点网课\空转参考文献\Injury-induced-Clusterin-cardiomyocytes-suppress-inflammation-and-promote-regeneration-in.pdf. Relevant figure pages were rendered to inputs/reference_style.
+- Live-audit snapshot: 279,305 post-QC scRNA cells, 38 scRNA sample IDs, 23 patient IDs in the current scRNA object, 47 cell states, 11 registered Stereo sections with 387,061 cell bins, and 2 Visium sections with 4,449 spots.
+- The 11-section Stereo subset is authoritative even though the source filename contains 16samples.
+- Existing Figure1F code includes 6mph and 9mph. These are outside the registered epithelialization subset and must be removed from Figure1F.
+- Existing fluorescence images matching all four repair modes were not identified during this audit.
+- H&E source reviewed: A:\JSZBS\烧伤图谱单细胞最终版\文章\20231123\HE汇报20231115.pptx (13 slides). Slides 4-9 contain superficial/deep samples around 6, 12 and 19 days and are suitable as candidate histology sources after mode-to-specimen tracing.
+- Fluorescence source reviewed: A:\JSZBS\烧伤图谱单细胞最终版\文章\20231121\figure3_FIB相关图片\20231117免疫荧光验证思路.pptx (6 slides). It focuses on SAC, myeloid and ACTA2-positive fibroblast pathways and is not a four-mode histology series.
+- Author decision, 2026-07-22: Figure1A will show separate modality counts, use mode-matched H&E, and omit fluorescence.

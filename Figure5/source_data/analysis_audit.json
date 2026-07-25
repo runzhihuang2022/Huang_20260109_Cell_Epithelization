@@ -1,0 +1,18 @@
+{
+  "skill": "spatiotemporal-omics-analysis",
+  "samples": {
+    "19dpb": {
+      "sample_id": "BW15D_C6_SDSDB_19dpb",
+      "anchor": "F:\\20250325cell背靠背拒稿\\20251214上皮化\\20260313重新拼图\\时空组学\\stereoseq\\pdf_output\\mask\\19dpb_spatial_anchors.json"
+    },
+    "19dpb_p1": {
+      "sample_id": "BW15D_1_D1_SDSDB_19dpb",
+      "anchor": "F:\\20250325cell背靠背拒稿\\20251214上皮化\\20260313重新拼图\\时空组学\\stereoseq\\pdf_output\\mask\\19dpb_p1_spatial_anchors.json"
+    }
+  },
+  "sender": "KC_Spinous_Mig",
+  "receiver": "Fib_K14",
+  "IF_proxy_note": "Multiplex IF images are not analyzed here; SOX9+KRT17+ and VIM+KRT5+ nearest-neighbor analysis is transcriptomic proxy from ST data.",
+  "LR_note": "LR evidence is adjacency/permutation and co-expression based; it supports candidate sender-receiver relationship but does not establish direct engagement.",
+  "territory_definition": "wound_x_um < -500 Un-epi; abs(wound_x_um)<=500 Epi-Front; wound_x_um > 500 Newly-epi."
+}

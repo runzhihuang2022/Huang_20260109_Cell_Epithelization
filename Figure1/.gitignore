@@ -1,0 +1,7 @@
+*.h5ad
+*.rds
+*.fastq
+*.fastq.gz
+__pycache__/
+.ipynb_checkpoints/
+outputs/review/

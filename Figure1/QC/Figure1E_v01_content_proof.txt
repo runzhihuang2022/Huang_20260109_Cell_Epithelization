@@ -1,0 +1,5 @@
+Figure 1E v01
+- Recomputed on the exact registered 11-section human Stereo-seq subset.
+- Shared 1st-99th percentile scale derived only from those 11 sections.
+- Pixel aggregation uses the maximum observed score per location; no interpolation or smoothing.
+- Spatial marks are rasterized; all labels and the color scale remain editable vector objects.

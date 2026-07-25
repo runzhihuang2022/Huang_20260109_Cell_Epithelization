@@ -1,0 +1,5 @@
+Figure 1 A4 v01
+- Physical page size: 210 x 297 mm.
+- Content margins: 10 mm left/right; at least 10 mm top/bottom.
+- A and B share the first row; C-F use full-width rows.
+- Source SVG panels remain individually editable and are grouped by panel ID in the assembled SVG.

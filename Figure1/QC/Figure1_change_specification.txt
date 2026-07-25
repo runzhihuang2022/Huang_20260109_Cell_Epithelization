@@ -1,0 +1,43 @@
+FIGURE 1 / FIGURE S1 / TABLE S1 CHANGE SPECIFICATION
+Version: evidence-audit draft, 2026-07-22
+
+1. Fixed production rules
+- Canvas: exact A4 portrait, 210 x 297 mm.
+- Typeface: Arial throughout. Final-size text 6-14 pt; panel letters 10-12 pt bold.
+- Gene symbols: italic (human uppercase, mouse initial-capital/lowercase); proteins, cell-state labels and abbreviations: roman.
+- No large figure-wide title inside the artwork. The legend carries the figure title.
+- Outer margins: 8-10 mm. Inter-panel gutters: 3-4 mm. Maintain visible white space.
+- Preserve scale bars, orientation and color keys. Do not rasterize text or vector plots when assembling the editable master.
+
+2. Proposed A4 layout
+- Top band (approximately 35% height): Figure 1A at 64% width and Figure 1B at 36% width.
+- Second band (approximately 17% height): Figure 1C across full width.
+- Third band (approximately 26% height): Figure 1D across full width, prioritizing one large overview and three large region crops.
+- Bottom band (approximately 18-20% height): Figure 1E at 64% width and Figure 1F at 36% width.
+- Use aligned left edges, shared baselines and consistent 3-4 mm gutters. No panel may touch another panel's legend or scale bar.
+
+3. Panel actions
+A. Remove the human-arm icon and move gross wound photographs to Figure S1A. Build a compact three-stage timeline (inflammation, proliferation and remodeling), display three separate modality counts (38 scRNA-seq samples, 11 Stereo-seq sections and 2 Visium sections), and retain four mode schematics with representative H&E. Do not display a combined N and do not add fluorescence to Figure1A.
+B. Retain the 47-state UMAP but rebuild its hierarchy: five broad compartment labels on the plot, compact keyed 47-state legend, marker evidence in S1D/Table S1. Remove the oversized internal figure title.
+C. Rebuild four representative projections with larger tissue crops, full-section insets, identical orientation and one shared seven-state legend.
+D. Replace the current small overview plus 3x3 matrix with: (i) one large 19dpb overview showing newly epithelialized, epithelialization-front and unepithelialized territories; and (ii) three enlarged, identically oriented region crops. Move the detailed nine-state map matrix to S1G.
+E. Recompute after testing whether one shared robust scale preserves within-section spatial contrast. If a shared scale is not defensible, use a clearly labelled within-section standardized score. Use a light-gray tissue background, surface-focused crops and a clearly defined color bar. Never change scaling silently.
+F. Mandatory recomputation using only Normal, 5dpb, 12dpb, 19dpb, 26dpb and 2mph from the registered 11 sections. Exclude 6mph and 9mph. Plot section-level values and individual section points; do not treat bins as replicates. Prefer five aligned compact process panels or standardized trajectories because one shared raw y-axis suppresses the smaller programs.
+
+4. Supplement linkage
+- S1A: cohort allocation plus gross clinical photographs moved from main Figure 1A.
+- S1B-D: scRNA QC, batch distribution and marker heat map.
+- S1E: four representative spatial QC sections in the composite; retain all 11 as an extended QC package.
+- S1F: call the quantity a marker-support mapping score, not projection confidence.
+- S1G: detailed nine-state spatial validation moved from Figure 1D.
+- Table S1: maintain separate rows and units for patient, specimen, scRNA sample, Stereo section and Visium section; update after patient linkage is verified.
+
+5. Current evidence gates
+- Author decision, 2026-07-22: Figure1A will not display a combined N. It will show 38 scRNA-seq samples, 11 Stereo-seq sections and 2 Visium sections as separate quantities.
+- The inspected fluorescence material validates SAC, myeloid and ACTA2-positive fibroblast pathways rather than the four morphological modes. It is reserved for the corresponding mechanistic figure or supplement and will not be used in Figure1A.
+- The inspected H&E report supports time- and injury-depth-associated morphology but does not by itself provide a complete one-to-one four-mode series; final H&E selection must remain traceable to the mode assignment used in the current Figure1 source.
+
+6. Export set after approval
+- Editable master: AI-compatible layered PDF/SVG plus an editable assembly source; all fonts embedded or outlined only in a duplicate delivery copy.
+- Publication: vector PDF and 600-dpi TIFF/PNG proof.
+- GitHub: one script per panel, shared style/config module, environment file, source-data manifest and README with exact regeneration commands.

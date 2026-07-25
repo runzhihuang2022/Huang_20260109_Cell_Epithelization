@@ -1,0 +1,8 @@
+Figure1A v01 content proof
+- No combined N displayed.
+- Counts: 38 scRNA-seq samples; 11 Stereo-seq sections; 2 10x Visium sections.
+- Human-arm icon and gross clinical photographs removed from the main panel.
+- No fluorescence images included.
+- Four vector mode schematics and four H&E crops included.
+- H&E processing: crop only; no intensity/color adjustment.
+- Final panel size: 125 x 88 mm; Arial; minimum nominal text size 6 pt.

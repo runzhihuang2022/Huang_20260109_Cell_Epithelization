@@ -1,0 +1,11 @@
+asset_id,modality,species,source_path,package_path,status,notes
+spatial_reanalysis,Stereo-seq,human,F:/20250325cell背靠背拒稿/20251214上皮化/20260313重新拼图/时空组学/stereoseq/spatiotemporal_omics_19dpb_FibK14_KLF4_Figure4_20260715,assets/computational,available,19dpb and 19dpb_p1 registered sections
+if_source,multiplex IF,human,F:/20250325cell背靠背拒稿/20251214上皮化/20260313重新拼图/范师兄图片/1.ai,assets/experimental/1.ai,available,original experimental AI
+klf4_oe_source,cell imaging,human cells,F:/20250325cell背靠背拒稿/20251214上皮化/20260313重新拼图/范师兄图片/3.ai,assets/experimental/3.ai,available,original experimental AI
+atac_transfer,scATAC-seq,rat,F:/20250325cell背靠背拒稿/20251214上皮化/20260313重新拼图/范师兄图片/博琳,assets/atac,partial,rn7 workflow; motif output unsuccessful
+scenic,SCENIC,human,,source_data,missing,AUC/loom and regulon definition required
+qpcr,qPCR,human cells,,source_data,missing,raw values and design required
+western,Western blot,human cells,,source_data,missing,original blot and quantification required
+rnaseq,RNA-seq,human cells,,source_data,missing,DEG and GSEA source tables required
+motif,KLF4 motif/footprinting,rat,,source_data,failed,current motif-hit table is empty
+
