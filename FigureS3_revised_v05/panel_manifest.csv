@@ -1,0 +1,4 @@
+panel,action,claim,source_asset,observational_unit,method,status
+A,retain,Time-resolved TOP10 Fib_K14-conditioned KC/SAC co-occurrence,source_data/FigureS3_FibK14_KC_SAC_timepoint_TOP10.csv,Stereo-seq section,Time-point mean score and within-time rank,complete
+B,recompute,Cross-cell-state co-occurrence separated from Fib_K14 self-spatial aggregation,"source_data/FigureS3_v04_prespecified_section_statistics.csv; source_data/FigureS3_v05_time_group_statistics.csv",Stereo-seq section,"Conditional co-occurrence ratio; section-level Kruskal-Wallis across six time groups; non-significant P values omitted",complete
+C,recompute_exact_style,Original 26dpb_p2 Fib_K14-conditioned co-occurrence panel reproduced by code,"source_data/FigureS3_v04_26dpb_p2_distance_curves.csv; source_data/FigureS3_v04_26dpb_p2_closest_scores.csv",Stereo-seq cell bin,"Original cumulative-radius probability-ratio display; TOP10 excludes Fib_K14 self-reference",complete

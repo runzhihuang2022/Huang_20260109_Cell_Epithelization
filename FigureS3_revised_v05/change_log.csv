@@ -1,0 +1,5 @@
+version,date,panel,change,reason,status
+v05,2026-07-25,B,Separated cross-cell-state co-occurrence from Fib_K14 self-spatial aggregation,User-requested scientific distinction,complete
+v05,2026-07-25,B,Replaced permutation q-value matrix with section-level time-group Kruskal-Wallis audit and omitted non-significant P values,User requested group-difference statistics without displaying non-significant results,complete
+v05,2026-07-25,C,Restored the original 26dpb_p2 two-plot code layout colors axis range full legend and TOP10 excluding Fib_K14 self-reference,User requested exact code redraw without unsolicited modifications,complete
+v05,2026-07-25,All,Applied Arial 6-14 pt and exported A4 vector and 600-dpi raster formats,Publication formatting requirement,complete
