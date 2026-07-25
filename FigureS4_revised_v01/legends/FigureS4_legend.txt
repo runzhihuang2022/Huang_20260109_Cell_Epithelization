@@ -1,0 +1,15 @@
+Figure S4. Human single-cell and spatial analyses supporting the identification of Fib_K14.
+
+(A) Fibroblast-only re-clustering UMAP of all human fibroblast cells in the registered single-cell RNA-seq atlas. The neighborhood graph and UMAP were recalculated using only fibroblasts in the Harmony-integrated latent space; points are colored by the nine previously annotated fibroblast states.
+
+(B) Quality-control and doublet reanalysis comparing keratinocytes, other fibroblasts and Fib_K14 cells. Violin plots show the number of detected genes, UMI counts, mitochondrial transcript percentage and Scrublet doublet scores. Scrublet was run independently for each of the 38 sample IDs from the integer UMI-count matrix; predicted doublet fractions are reported in the panel and source-data table.
+
+(C) Fibroblast-embedding feature plots showing log-normalized expression of PDGFRA, VIM, KRT14, KRT5 and TACSTD2. The final map shows the local joint density of PDGFRA and KRT14, calculated from the geometric mean of their percentile-scaled expression followed by two-dimensional Gaussian smoothing. This computational joint-density score denotes spatial concordance in the embedding and is not an immunofluorescence co-staining measurement.
+
+(D) Sample-level keratinocyte-proximity proxy scores across fibroblast states, regenerated from the previously approved source table without changing the calculation or group definition.
+
+(E) Monocle2 DDRTree analysis containing Fib_K14, SAC_SG_Progenitor, KC_Basal, KC_Basal_Mig, KC_Spinous_Mig and KC_Spinous. The three coordinated views show Monocle2 pseudotime, annotated cell state and observed healing time. To prevent the largest keratinocyte state from dominating the trajectory, up to 2,500 cells per state were sampled with a fixed random seed.
+
+(F) PDGFRA–KRT14 joint spatial-density maps across the registered 11 human Stereo-seq wound-healing sections. Sections are shown after the prespecified rotations. For each section, PDGFRA and KRT14 were percentile-scaled, combined by their geometric mean and smoothed on a two-dimensional spatial grid. Color scales are normalized within section; therefore, the panel supports within-section localization rather than direct absolute comparison of expression magnitude across sections.
+
+All panels use Arial type at 6–14 pt. Human Stereo-seq analyses are restricted to the prespecified 11-section project subset. The joint-density panels are computational co-expression visualizations and do not establish lineage conversion or protein-level co-localization.

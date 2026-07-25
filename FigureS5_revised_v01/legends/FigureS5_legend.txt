@@ -1,0 +1,9 @@
+Figure S5. Animal burn models and experimental validation of fibroblast-associated keratin expression.
+
+(A–F) Rat burn-model overview, histological comparison of normal and burned skin, serial gross wound images, time-resolved H&E staining, and representative PDGFRA/KRT5 or PDGFRA/KRT14 immunofluorescence in burned skin.
+
+(G–J) Genetic lineage-tracing strategy, serial wound appearance, time-resolved histology and representative PDGFRA-lineage/KRT14 staining in normal and burned skin.
+
+(K–P) Experimental workflow for KRT14 perturbation in cultured fibroblasts, representative phase-contrast and reporter images, KRT10/KRT5/KRT14 transcript measurements, multiplicity-of-infection series and DAPI/GFP-KRT14/KRT5 immunofluorescence.
+
+Figure S5 contains only animal or animal-derived experimental material from the supplied `20250825动物拼图.pptx`. The panel letters were renumbered consecutively during the human/animal split; images and quantitative results were otherwise retained from the supplied source deck. No FCS files or clone-level raw measurements were found in the registered project directories, so no new flow-cytometry or clone-efficiency statistics were inferred.
