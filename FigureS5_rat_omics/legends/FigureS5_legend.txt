@@ -1,0 +1,17 @@
+Figure S5. Rat single-cell and spatial analyses supporting the cross-species Fib_K14-like state comparison.
+
+(A) Fibroblast-only UMAP reconstructed from the registered rat single-cell RNA-seq atlas using the Harmony embedding. All annotated fibroblast states are shown; the source annotation Fib_K14 is displayed as Fib_K14-like because Krt14 is absent from the registered rat gene universe.
+
+(B) Quality-control distributions for keratinocytes, other fibroblasts and Fib_K14-like cells, showing the number of detected genes, UMI counts, mitochondrial transcript percentage and independently recomputed Scrublet doublet scores. Scrublet was run separately for each of the 53 biological samples using the integer UMI count matrix.
+
+(C) Fibroblast-only feature plots for Pdgfra, Vim, Krt14, Krt5 and Tacstd2, followed by a prespecified Fib_K14-like surrogate-density plot based on the geometric mean of Pdgfra, Vim, Krt5 and Tacstd2 after within-gene 99th-percentile scaling. Krt14 is explicitly marked unavailable and was not imputed or replaced.
+
+(D) PAGA connectivity graph among Fib_K14-like, sweat-gland progenitor and keratinocyte states in the rat single-cell atlas. Edge width denotes PAGA connectivity calculated from a balanced cell-state subset in the registered Harmony space.
+
+(E) Monocle2 trajectory reconstructed jointly from Fib_K14-like, SAC_Progenitor, KC_Basal, KC_Basal_Mig, KC_Spinous_Mig and KC_Spinous cells. Panels show pseudotime, cell-state identity and the observed wound time recorded in the metadata. Up to 1,000 cells per state were sampled with a fixed seed to prevent state-size imbalance from dominating the trajectory.
+
+(F) Human reference maps showing PDGFRA–KRT14 joint spatial density across the registered 11-section Stereo-seq wound-healing subset. This requested human comparator is the only human-data panel in Figure S5. Colors are normalized within section and should not be interpreted as absolute expression differences between sections.
+
+(G) Cross-species and developmental comparison of the measurable Fib_K14/Fib_K14-like program. Top, representative rat spatial maps from embryonic E18.5, postnatal P5, adult wound and adult normal skin, with Fib_K14-like cells highlighted in red and 1-mm scale bars. Bottom left, sample-level expression prevalence of measurable orthologous markers in human Fib_K14 and rat Fib_K14-like cells; KRT14 is excluded because the rat gene is unavailable. Bottom right, the Fib_K14-like fraction among all annotated fibroblasts in 30 rat spatial sections. Each point is one section/sample. The overall comparison used a two-sided Kruskal–Wallis test, followed by two-sided Mann–Whitney tests with Benjamini–Hochberg correction. Embryonic values showed a numerical increase over adult values, but the comparison was not significant (P = 0.626; q = 0.626).
+
+All plots use Arial fonts. Statistical analyses use biological samples or spatial sections, not individual cells, as independent replicates. Exact source tables, sample counts, test statistics and reproducible plotting code are provided with the figure.
