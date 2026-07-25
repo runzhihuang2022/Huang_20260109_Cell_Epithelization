@@ -1,0 +1,9 @@
+panel,action,content,source,observational_unit,status
+A,retain,Four lower-leg clinical wound-healing modes,legacy clinical photographs,image,complete
+B,retain,Number of UMI and Number of Gene by sample and modality,registered scRNA-seq Stereo-seq and Visium objects,"cell; cell bin; spot",complete
+C,retain,Burn-depth outcomes H&E and residual appendages,illustration plus legacy histology and statistics,image,complete
+D,retain,Canonical marker heat maps for 47 cell states,post-QC human scRNA-seq,cell,complete
+E,restyle,Number of UMI and Number of Gene across all 11 Stereo-seq sections,registered 11-section Stereo-seq subset,cell bin,complete
+F,renumber_and_restyle,Five chronological keratinocyte-state spatial maps,Normal plus four wound/healing Stereo-seq sections,cell bin,complete
+former_F,remove,Clinical VIM/KRT14 immunofluorescence,clinical microscopy image,image,removed_by_user_request
+

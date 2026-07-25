@@ -1,0 +1,25 @@
+{
+  "canvas_mm": [
+    196.0,
+    100.0
+  ],
+  "font": "Arial",
+  "font_range_pt": [
+    6,
+    12
+  ],
+  "panel_E_sections": 11,
+  "panel_F_temporal_sections": [
+    "Normal",
+    "5 dpb",
+    "12 dpb SPTDI",
+    "19 dpb",
+    "2 mph"
+  ],
+  "common_column_width_mm": 35.6,
+  "common_map_height_mm": 6.0,
+  "common_scale_bar": "1 mm on every E and F map",
+  "removed_panel": "former clinical VIM/KRT14 immunofluorescence panel F",
+  "renumbering": "former panel G is panel F",
+  "rasterization_dpi_for_dense_spatial_points": 600
+}
