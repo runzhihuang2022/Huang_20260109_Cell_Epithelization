@@ -1,0 +1,8 @@
+Panel,Source,Analysis,Primary_output
+A,F:\多组学分析skills\大鼠胚胎创面_成年大鼠创面\pbmc_final.h5ad,Fibroblast-only Harmony neighbors and UMAP,FigureS5_A_rat_fibroblast_reclustered_umap.pdf
+B,F:\多组学分析skills\大鼠胚胎创面_成年大鼠创面\pbmc_final.h5ad,Per-sample Scrublet and QC metrics,FigureS5_B_rat_QC_and_doublet_reanalysis.pdf
+C,F:\多组学分析skills\大鼠胚胎创面_成年大鼠创面\pbmc_final.h5ad,Marker expression and prespecified surrogate density,FigureS5_C_rat_marker_featureplots.pdf
+D,F:\多组学分析skills\大鼠胚胎创面_成年大鼠创面\pbmc_final.h5ad,PAGA connectivity,FigureS5_D_rat_PAGA.pdf
+E,F:\多组学分析skills\大鼠胚胎创面_成年大鼠创面\pbmc_final.h5ad,Monocle2 DDRTree,FigureS5_E_rat_monocle2_trajectory.pdf
+F,FigureS4_revision_v01 human Stereo-seq panel F,Registered 11-section PDGFRA-KRT14 joint density,FigureS5_F_human_spatial_joint_density_reference.pdf
+G,F:\时空组学流程分析skills\课题3+大鼠成年乳鼠胚胎+再生\data,Spatial maps plus sample-level developmental statistics,FigureS5_G_cross_species_developmental_conservation.pdf
