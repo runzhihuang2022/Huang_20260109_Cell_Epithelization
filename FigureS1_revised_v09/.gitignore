@@ -1,0 +1,4 @@
+outputs/vector/
+outputs/raster/
+__pycache__/
+*.pyc
