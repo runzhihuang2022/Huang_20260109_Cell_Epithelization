@@ -1,0 +1,7 @@
+panel,action,claim,source,observational_unit,method,status
+A,reassign from former C,Time-resolved TOP10 Fib_K14-conditioned KC/SAC co-occurrence,FigureS3_FibK14_KC_SAC_timepoint_TOP10.csv,Stereo-seq section,Time-point mean score and within-time rank,complete
+B,reassign and extend former D,Temporal Fib_K14 self and cross-state co-occurrence with corrected statistics,FigureS3_v04_prespecified_section_statistics.csv; FigureS3_v04_prespecified_timepoint_statistics.csv,Stereo-seq section,50-um conditional ratio; 999 spatial-label permutations; BH across 102 tests,complete
+C,recompute,26dpb_p2 distance-dependent Fib_K14-centered co-occurrence highlighting KC_Spinous_Mig,FigureS3_v04_26dpb_p2_distance_curves.csv; FigureS3_v04_26dpb_p2_closest_scores.csv,Stereo-seq cell bin,Cumulative-radius probability ratio plus fixed 50-um permutation audit,complete
+former_A,remove,Epi-Front cell-state enrichment,Figure2B_S2AB_19dpb_p1_region_enrichment.csv,Stereo-seq cell bin,Fisher exact test with BH correction,removed_by_user_request
+former_B,remove,Section-resolved co-occurrence heat map,FigureS3_FibK14_KC_SAC_section_scores.csv,Stereo-seq section,50-um conditional co-occurrence ratio,removed_by_user_request
+
