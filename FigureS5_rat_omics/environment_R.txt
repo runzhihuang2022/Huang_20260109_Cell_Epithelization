@@ -1,0 +1,7 @@
+R 4.3.3
+monocle 2.30.1
+Matrix
+ggplot2
+gridExtra
+RColorBrewer
+svglite
