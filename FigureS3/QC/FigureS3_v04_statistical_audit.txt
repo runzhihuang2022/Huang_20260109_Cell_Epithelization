@@ -1,0 +1,125 @@
+Figure S3 v04 statistical audit
+================================
+
+B: 999 spatial-label permutations; 50-um fixed radius.
+Time-point P values compare observed mean scores with mean permuted scores.
+BH correction was applied across Fib_K14 plus all 16 KC/SAC states x 6 time points.
+
+timepoint  time_order        cell_state comparison_type  n_sections  mean_score  sd_score  sem_score  p_enrichment_timepoint_permutation  n_permutations  fdr_across_102_timepoint_state_tests
+   Normal           0           Fib_K14            self           1    3.139337       NaN        NaN                               0.001             999                                 0.017
+   Normal           0          KC_Basal     cross-state           1    0.489787       NaN        NaN                               1.000             999                                 1.000
+   Normal           0      KC_Basal_Mig     cross-state           1    0.000000       NaN        NaN                               1.000             999                                 1.000
+   Normal           0   KC_Basal_Prolif     cross-state           1    0.000000       NaN        NaN                               1.000             999                                 1.000
+   Normal           0        KC_Spinous     cross-state           1    0.236318       NaN        NaN                               1.000             999                                 1.000
+   Normal           0    KC_Spinous_Mig     cross-state           1    0.126336       NaN        NaN                               1.000             999                                 1.000
+   Normal           0    KC_Spinous_Mat     cross-state           1    0.228129       NaN        NaN                               1.000             999                                 1.000
+   Normal           0       KC_Granular     cross-state           1    0.248228       NaN        NaN                               1.000             999                                 1.000
+   Normal           0 SAC_SG_Progenitor     cross-state           1    0.126608       NaN        NaN                               1.000             999                                 1.000
+   Normal           0      SAC_SG_Clear     cross-state           1    0.027100       NaN        NaN                               1.000             999                                 1.000
+   Normal           0       SAC_SG_Dark     cross-state           1    0.230936       NaN        NaN                               1.000             999                                 1.000
+   Normal           0     SAC_SG_Ductal     cross-state           1    0.109294       NaN        NaN                               1.000             999                                 1.000
+   Normal           0        SAC_HF_IRS     cross-state           1    0.088873       NaN        NaN                               1.000             999                                 1.000
+   Normal           0        SAC_HF_ORS     cross-state           1    0.069197       NaN        NaN                               1.000             999                                 1.000
+   Normal           0       SAC_HF_HFSC     cross-state           1    0.105332       NaN        NaN                               1.000             999                                 1.000
+   Normal           0      SAC_HF_DP_DS     cross-state           1    0.167146       NaN        NaN                               1.000             999                                 1.000
+   Normal           0     SAC_HF_Matrix     cross-state           1    0.350211       NaN        NaN                               1.000             999                                 1.000
+    5 dpb           1           Fib_K14            self           1    3.324697       NaN        NaN                               0.001             999                                 0.017
+    5 dpb           1          KC_Basal     cross-state           1    0.565249       NaN        NaN                               0.943             999                                 1.000
+    5 dpb           1      KC_Basal_Mig     cross-state           1    0.000000       NaN        NaN                               1.000             999                                 1.000
+    5 dpb           1   KC_Basal_Prolif     cross-state           1    0.000000       NaN        NaN                               1.000             999                                 1.000
+    5 dpb           1        KC_Spinous     cross-state           1    0.785577       NaN        NaN                               0.535             999                                 1.000
+    5 dpb           1    KC_Spinous_Mig     cross-state           1    0.883231       NaN        NaN                               0.635             999                                 1.000
+    5 dpb           1    KC_Spinous_Mat     cross-state           1    0.000000       NaN        NaN                               1.000             999                                 1.000
+    5 dpb           1       KC_Granular     cross-state           1    0.000000       NaN        NaN                               1.000             999                                 1.000
+    5 dpb           1 SAC_SG_Progenitor     cross-state           1    0.004914       NaN        NaN                               1.000             999                                 1.000
+    5 dpb           1      SAC_SG_Clear     cross-state           1    0.000000       NaN        NaN                               1.000             999                                 1.000
+    5 dpb           1       SAC_SG_Dark     cross-state           1    0.000000       NaN        NaN                               1.000             999                                 1.000
+    5 dpb           1     SAC_SG_Ductal     cross-state           1    0.000000       NaN        NaN                               1.000             999                                 1.000
+    5 dpb           1        SAC_HF_IRS     cross-state           1    0.006305       NaN        NaN                               1.000             999                                 1.000
+    5 dpb           1        SAC_HF_ORS     cross-state           1    0.000000       NaN        NaN                               1.000             999                                 1.000
+    5 dpb           1       SAC_HF_HFSC     cross-state           1    0.000000       NaN        NaN                               1.000             999                                 1.000
+    5 dpb           1      SAC_HF_DP_DS     cross-state           1    0.000000       NaN        NaN                               1.000             999                                 1.000
+    5 dpb           1     SAC_HF_Matrix     cross-state           1    0.000000       NaN        NaN                               1.000             999                                 1.000
+   12 dpb           2           Fib_K14            self           4    2.748801  0.244039   0.122020                               0.001             999                                 0.017
+   12 dpb           2          KC_Basal     cross-state           4    0.198734  0.262801   0.131401                               1.000             999                                 1.000
+   12 dpb           2      KC_Basal_Mig     cross-state           4    0.162288  0.221339   0.110669                               1.000             999                                 1.000
+   12 dpb           2   KC_Basal_Prolif     cross-state           4    0.330677  0.381948   0.190974                               0.822             999                                 1.000
+   12 dpb           2        KC_Spinous     cross-state           4    0.058721  0.067812   0.033906                               1.000             999                                 1.000
+   12 dpb           2    KC_Spinous_Mig     cross-state           4    0.104252  0.120591   0.060296                               1.000             999                                 1.000
+   12 dpb           2    KC_Spinous_Mat     cross-state           4    0.095282  0.119597   0.059799                               1.000             999                                 1.000
+   12 dpb           2       KC_Granular     cross-state           4    0.029347  0.046032   0.023016                               1.000             999                                 1.000
+   12 dpb           2 SAC_SG_Progenitor     cross-state           4    0.016672  0.012410   0.006205                               1.000             999                                 1.000
+   12 dpb           2      SAC_SG_Clear     cross-state           4    0.006531  0.009736   0.004868                               1.000             999                                 1.000
+   12 dpb           2       SAC_SG_Dark     cross-state           4    0.012068  0.012054   0.006027                               1.000             999                                 1.000
+   12 dpb           2     SAC_SG_Ductal     cross-state           4    0.010152  0.009486   0.004743                               1.000             999                                 1.000
+   12 dpb           2        SAC_HF_IRS     cross-state           4    0.012288  0.015555   0.007778                               1.000             999                                 1.000
+   12 dpb           2        SAC_HF_ORS     cross-state           4    0.019769  0.018359   0.009179                               1.000             999                                 1.000
+   12 dpb           2       SAC_HF_HFSC     cross-state           4    0.028632  0.034505   0.017253                               1.000             999                                 1.000
+   12 dpb           2      SAC_HF_DP_DS     cross-state           4    0.006931  0.013863   0.006931                               1.000             999                                 1.000
+   12 dpb           2     SAC_HF_Matrix     cross-state           4    0.019502  0.039003   0.019502                               1.000             999                                 1.000
+   19 dpb           3           Fib_K14            self           2    2.002254  0.007968   0.005634                               0.001             999                                 0.017
+   19 dpb           3          KC_Basal     cross-state           2    0.305442  0.065124   0.046050                               1.000             999                                 1.000
+   19 dpb           3      KC_Basal_Mig     cross-state           2    0.257866  0.087171   0.061639                               1.000             999                                 1.000
+   19 dpb           3   KC_Basal_Prolif     cross-state           2    0.893698  0.065227   0.046122                               0.671             999                                 1.000
+   19 dpb           3        KC_Spinous     cross-state           2    0.128066  0.006058   0.004284                               1.000             999                                 1.000
+   19 dpb           3    KC_Spinous_Mig     cross-state           2    0.155667  0.014644   0.010355                               1.000             999                                 1.000
+   19 dpb           3    KC_Spinous_Mat     cross-state           2    0.197902  0.088422   0.062524                               1.000             999                                 1.000
+   19 dpb           3       KC_Granular     cross-state           2    0.029120  0.000552   0.000390                               1.000             999                                 1.000
+   19 dpb           3 SAC_SG_Progenitor     cross-state           2    0.040793  0.020446   0.014458                               1.000             999                                 1.000
+   19 dpb           3      SAC_SG_Clear     cross-state           2    0.018239  0.005206   0.003681                               1.000             999                                 1.000
+   19 dpb           3       SAC_SG_Dark     cross-state           2    0.025045  0.014452   0.010219                               1.000             999                                 1.000
+   19 dpb           3     SAC_SG_Ductal     cross-state           2    0.023365  0.003849   0.002722                               1.000             999                                 1.000
+   19 dpb           3        SAC_HF_IRS     cross-state           2    0.029502  0.009924   0.007018                               1.000             999                                 1.000
+   19 dpb           3        SAC_HF_ORS     cross-state           2    0.034493  0.007565   0.005349                               1.000             999                                 1.000
+   19 dpb           3       SAC_HF_HFSC     cross-state           2    0.035212  0.027535   0.019470                               1.000             999                                 1.000
+   19 dpb           3      SAC_HF_DP_DS     cross-state           2    0.058976  0.011890   0.008408                               1.000             999                                 1.000
+   19 dpb           3     SAC_HF_Matrix     cross-state           2    0.027795  0.011014   0.007788                               1.000             999                                 1.000
+   26 dpb           4           Fib_K14            self           2    3.313571  0.225613   0.159533                               0.001             999                                 0.017
+   26 dpb           4          KC_Basal     cross-state           2    1.632733  1.839350   1.300617                               0.115             999                                 1.000
+   26 dpb           4      KC_Basal_Mig     cross-state           2    0.054457  0.077014   0.054457                               0.996             999                                 1.000
+   26 dpb           4   KC_Basal_Prolif     cross-state           2    0.367953  0.520364   0.367953                               0.660             999                                 1.000
+   26 dpb           4        KC_Spinous     cross-state           2    0.063129  0.089278   0.063129                               1.000             999                                 1.000
+   26 dpb           4    KC_Spinous_Mig     cross-state           2    1.531954  1.856923   1.313043                               0.079             999                                 1.000
+   26 dpb           4    KC_Spinous_Mat     cross-state           2    0.137333  0.194218   0.137333                               1.000             999                                 1.000
+   26 dpb           4       KC_Granular     cross-state           2    0.046892  0.066315   0.046892                               1.000             999                                 1.000
+   26 dpb           4 SAC_SG_Progenitor     cross-state           2    0.052254  0.004665   0.003299                               1.000             999                                 1.000
+   26 dpb           4      SAC_SG_Clear     cross-state           2    0.011572  0.006014   0.004253                               1.000             999                                 1.000
+   26 dpb           4       SAC_SG_Dark     cross-state           2    0.023868  0.033755   0.023868                               1.000             999                                 1.000
+   26 dpb           4     SAC_SG_Ductal     cross-state           2    0.046121  0.022148   0.015661                               1.000             999                                 1.000
+   26 dpb           4        SAC_HF_IRS     cross-state           2    0.055700  0.021559   0.015244                               1.000             999                                 1.000
+   26 dpb           4        SAC_HF_ORS     cross-state           2    0.054192  0.006762   0.004781                               1.000             999                                 1.000
+   26 dpb           4       SAC_HF_HFSC     cross-state           2    0.046048  0.001286   0.000909                               1.000             999                                 1.000
+   26 dpb           4      SAC_HF_DP_DS     cross-state           2    0.070027  0.046005   0.032531                               1.000             999                                 1.000
+   26 dpb           4     SAC_HF_Matrix     cross-state           2    0.067965  0.021851   0.015451                               1.000             999                                 1.000
+    2 mph           5           Fib_K14            self           1    2.530047       NaN        NaN                               0.001             999                                 0.017
+    2 mph           5          KC_Basal     cross-state           1    0.159227       NaN        NaN                               1.000             999                                 1.000
+    2 mph           5      KC_Basal_Mig     cross-state           1    0.000000       NaN        NaN                               1.000             999                                 1.000
+    2 mph           5   KC_Basal_Prolif     cross-state           1    0.431626       NaN        NaN                               0.893             999                                 1.000
+    2 mph           5        KC_Spinous     cross-state           1    0.158023       NaN        NaN                               1.000             999                                 1.000
+    2 mph           5    KC_Spinous_Mig     cross-state           1    0.169055       NaN        NaN                               1.000             999                                 1.000
+    2 mph           5    KC_Spinous_Mat     cross-state           1    0.156598       NaN        NaN                               1.000             999                                 1.000
+    2 mph           5       KC_Granular     cross-state           1    0.094851       NaN        NaN                               1.000             999                                 1.000
+    2 mph           5 SAC_SG_Progenitor     cross-state           1    0.024545       NaN        NaN                               1.000             999                                 1.000
+    2 mph           5      SAC_SG_Clear     cross-state           1    0.003439       NaN        NaN                               1.000             999                                 1.000
+    2 mph           5       SAC_SG_Dark     cross-state           1    0.004033       NaN        NaN                               1.000             999                                 1.000
+    2 mph           5     SAC_SG_Ductal     cross-state           1    0.018394       NaN        NaN                               1.000             999                                 1.000
+    2 mph           5        SAC_HF_IRS     cross-state           1    0.034098       NaN        NaN                               1.000             999                                 1.000
+    2 mph           5        SAC_HF_ORS     cross-state           1    0.041425       NaN        NaN                               1.000             999                                 1.000
+    2 mph           5       SAC_HF_HFSC     cross-state           1    0.040511       NaN        NaN                               1.000             999                                 1.000
+    2 mph           5      SAC_HF_DP_DS     cross-state           1    0.042451       NaN        NaN                               1.000             999                                 1.000
+    2 mph           5     SAC_HF_Matrix     cross-state           1    0.000000       NaN        NaN                               1.000             999                                 1.000
+
+C: distance curves exactly reproduce the Squidpy cumulative-radius ratio
+using cKDTree cumulative pair counts and physical conversion 0.5 um/unit.
+
+    cell_state  closest_distance_um  closest_distance_score  rank_including_Fib_K14_self  is_highlighted
+KC_Spinous_Mig           259.151995                2.611813                            1            True
+    Melanocyte           259.151995                2.506006                            2           False
+ Endo_Arterial           259.151995                2.432800                            3           False
+ M2_Macrophage           259.151995                2.418645                            4           False
+      KC_Basal           259.151995                2.317059                            5           False
+     Fib_Fasci           259.151995                2.284637                            6           False
+ M1_Macrophage           259.151995                2.217416                            7           False
+       Fib_EN1           259.151995                2.183786                            8           False
+       Fib_K14           259.151995                2.161918                            9            True
+   Fib_Inflama           259.151995                2.139527                           10           False
