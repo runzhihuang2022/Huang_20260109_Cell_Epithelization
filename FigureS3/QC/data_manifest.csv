@@ -1,0 +1,8 @@
+asset_id,modality,species,source_path_or_accession,subset_rule,observational_unit,n_observations,used_by_panel,status
+human_stereo_registered,Stereo-seq,human,FIGS3_STEREO_ROOT,Exact registered 11-section whitelist,cell bin,read live during rebuild,"B,C",used
+timepoint_top10,derived table,human,source_data/FigureS3_FibK14_KC_SAC_timepoint_TOP10.csv,TOP10 within each of six time points,Stereo-seq section,60,A,used
+prespecified_section_statistics,derived table,human,source_data/FigureS3_v04_prespecified_section_statistics.csv,Fib_K14 plus all KC/SAC states across 11 sections,Stereo-seq section,187,B,used
+prespecified_timepoint_statistics,derived table,human,source_data/FigureS3_v04_prespecified_timepoint_statistics.csv,Six time-point summaries with global BH correction,Stereo-seq section,102,B,used
+distance_curves_26dpb_p2,derived table,human,source_data/FigureS3_v04_26dpb_p2_distance_curves.csv,All 41 states conditioned on Fib_K14,cell-state distance curve,2009,C,used
+closest_scores_26dpb_p2,derived table,human,source_data/FigureS3_v04_26dpb_p2_closest_scores.csv,Closest-distance score for all 41 states,cell state,41,C,used
+
