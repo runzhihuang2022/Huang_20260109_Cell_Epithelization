@@ -1,0 +1,5 @@
+panel,content,source,analysis,status
+A,Candidate ligand-receptor screen,FigureS8A_LR_sender_receiver_permutation.tsv,Stratified permutation with BH correction,Supported with method caveat
+B,IGFL1/IGFLR1 spatial distribution and statistical checks,Stereo-seq map plus three summary tables,Wilcoxon and spatial permutation,Mixed: receptor enrichment supported; adjacency not supported
+C,IGFL1 functional intervention source panel,IGFL1_intervention_source_panel.png,No independent recalculation,Provisional because replicate-level values are unavailable
+D,Evidence-tiered working model,Panels A-C and evidence audit,Conceptual synthesis,Proposed mechanism with explicit evidence boundaries

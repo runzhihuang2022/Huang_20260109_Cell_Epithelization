@@ -1,0 +1,11 @@
+Figure S8. Evidence-screened IGFL1–IGFLR1 communication, spatial distribution and intervention data supporting the proposed epithelial-like plasticity model.
+
+(A) Permutation-based candidate ligand–receptor screen from KC_Spinous_Mig sender cells to Fib_K14 receiver cells in registered 19 dpb Stereo-seq sections. Filled circles show observed communication scores and open circles show permutation means. Benjamini–Hochberg-adjusted q values are shown only for significant pairs. IGFL1–IGFLR1 was retained as a leading candidate interaction (score, 0.082; permutation mean, 0.044; q = 0.011). This is a custom ligand–receptor permutation analysis and not a CellChat inference.
+
+(B) Representative 19 dpb spatial maps of IGFL1 and IGFLR1, with independent statistical summaries. IGFLR1 expression was higher in Fib_K14 than in other fibroblast states (mean, 0.052 versus 0.025; proxy log2 fold change, 1.04; Wilcoxon test with BH correction, q = 5.38 × 10−22). However, aggregated IGFL1–IGFLR1 spatial adjacency was not significant (r = −0.056; permutation P = 0.703; n = 107 spatial bins). The IGFL1 association with the wound axis was statistically significant but small (r = 0.034), whereas the depth-axis association was not significant.
+
+(C) Source-reported IGFL1 intervention panel showing dose-dependent transcriptional summaries, representative KRT14/GFP/DAPI images and KRT14-positive fractions among GFP-positive fibroblast-lineage cells. The underlying replicate-level qPCR, image-count and morphometry tables were not supplied; therefore, the displayed source summary was retained as provisional and its significance annotations were not independently recalculated.
+
+(D) Evidence-tiered working model. The data support IGFL1–IGFLR1 as a candidate communication axis and IGFLR1 enrichment in Fib_K14. Direct spatial ligand–receptor adjacency, CellChat communication inference, IGFL1-treatment RNA-seq/GSEA and a causal IGFL1-to-KLF4 link were not demonstrated by the supplied assets. Accordingly, the IGFL1–IGFLR1–KLF4 pathway is presented as a testable model rather than an established causal chain.
+
+All newly typeset text is Arial, 8–14 pt. q values were calculated using the Benjamini–Hochberg procedure. Gene symbols are italicized where space permits.
