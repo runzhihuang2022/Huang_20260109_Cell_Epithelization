@@ -1,0 +1,11 @@
+term	ES	reported_adjusted_p	direction	provenance
+Epidermis development	0.88	<0.001	positive	source-reported Figure 4/manuscript value; raw ranked list not supplied
+Keratinocyte differentiation	0.81	<0.05	positive	source-reported Figure 4/manuscript value; raw ranked list not supplied
+Epithelial cell differentiation	0.54	<0.001	positive	source-reported Figure 4/manuscript value; raw ranked list not supplied
+Skeletal system development	0.53	<0.01	positive	source-reported Figure 4/manuscript value; raw ranked list not supplied
+Renal system development	0.56	<0.001	positive	source-reported Figure 4/manuscript value; raw ranked list not supplied
+Extracellular matrix organization	-0.59	<0.001	negative	source-reported Figure 4/manuscript value; raw ranked list not supplied
+Extracellular structure organization	-0.64	<0.001	negative	source-reported Figure 4/manuscript value; raw ranked list not supplied
+External encapsulating structure organization	-0.64	<0.001	negative	source-reported Figure 4/manuscript value; raw ranked list not supplied
+Angiogenesis	-0.69	<0.01	negative	source-reported Figure 4/manuscript value; raw ranked list not supplied
+Wound healing	-0.57	<0.01	negative	source-reported Figure 4/manuscript value; raw ranked list not supplied

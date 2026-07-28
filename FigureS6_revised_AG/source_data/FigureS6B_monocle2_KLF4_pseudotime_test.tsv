@@ -1,0 +1,2 @@
+analysis	n_cells	rho	inference_note
+Spearman correlation	14356	-0.05978851509458004	cell-level descriptive association; cells are not independent biological replicates

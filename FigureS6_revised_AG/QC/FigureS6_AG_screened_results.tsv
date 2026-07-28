@@ -1,0 +1,11 @@
+result	evidence_level	status	interpretation
+Predefined KLF4 target-set activity is higher in Fib_K14 than other fibroblasts	cell-level rescue analysis	supported_with_qualification	Supports a KLF4-related transcriptional program but is not formal SCENIC KLF4 regulon activity
+KLF4 correlates positively with GRHL3 TP63 and TACSTD2 in Fib_K14	cell-level correlation	supported_descriptive	BH-significant at cell level but cells are not independent biological replicates
+KLF4 correlates negatively with ACTA2 in Fib_K14	cell-level correlation	supported_descriptive	Weak BH-significant negative association at cell level
+KLF4 correlates significantly with all epithelial genes and negatively with all scar genes	sample-level correlation	not_supported	All six sample-level associations have BH q greater than 0.05
+KLF4 SCENIC regulon is selectively activated in Fib_K14	formal SCENIC RSS	not_supported	KLF4 regulon is absent from the supplied formal RSS matrix
+Complete OSKM program is activated in Fib_K14	single-cell expression	not_supported	POU5F1 and SOX2 are sparse and KLF4 and MYC are not Fib_K14-specific
+KLF4 increases monotonically along Monocle2 pseudotime	cell-level trajectory	not_supported	Spearman rho is -0.0598 and the binned trend is non-monotonic
+KLF4 is specifically enriched in the Epi-Front of both 19-dpb sections	spatial bins	not_supported	19dpb is non-significant and 19dpb_p1 Epi-Front and Un-epi means are similar
+KLF4 overexpression induces KRT14 and compact morphology	source experimental artwork	source_reported_positive	Raw cell-level measurement table was not supplied for independent testing
+KLF4 overexpression enriches epithelial pathways and suppresses ECM and angiogenesis	source-reported GSEA	source_reported_positive	Raw ranked list and GSEA output were not supplied for independent rerunning

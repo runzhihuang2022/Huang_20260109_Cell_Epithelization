@@ -1,0 +1,29 @@
+{
+  "generated_at": "2026-07-28T06:59:38.118Z",
+  "monocle2": {
+    "cells": 14356,
+    "klf4_gene_index_1based": 18019
+  },
+  "scenic": {
+    "formal_regulons": 206,
+    "KLF4_present": false,
+    "top10": [
+      "EMX2",
+      "SIX1",
+      "HOXA11",
+      "EBF2",
+      "MSC",
+      "RUNX1",
+      "TBX15",
+      "CREB3L1",
+      "SOX4",
+      "TFCP2L1"
+    ]
+  },
+  "limitations": [
+    "Formal SCENIC RSS matrix contains no KLF4 regulon.",
+    "KLF4 target-set AUC is a predefined-gene-set rescue analysis, not formal pySCENIC regulon AUC.",
+    "RNA-seq ranked list and raw GSEA output were not found; panel G uses source-reported values.",
+    "Functional-experiment raw morphology and KRT14-positive-cell tables were not found; panel F retains source artwork and source-reported statistics."
+  ]
+}
