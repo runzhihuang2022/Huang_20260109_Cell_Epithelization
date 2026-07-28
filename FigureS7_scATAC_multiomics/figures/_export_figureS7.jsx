@@ -1,0 +1,33 @@
+app.userInteractionLevel=UserInteractionLevel.DONTDISPLAYALERTS;
+var doc=app.open(new File("F:/20250325cell\u80cc\u9760\u80cc\u62d2\u7a3f/20251214\u4e0a\u76ae\u5316/20260422rebuttal/\u8054\u7cfb\u7f16\u8f91/Final_Figure_Units/Figure4/supplements/FigureS7_revision_v01/figures/FigureS7_revised_v01.svg"));
+var ai=new IllustratorSaveOptions();
+ai.pdfCompatible=true;
+ai.compressed=true;
+ai.embedLinkedFiles=true;
+ai.fontSubsetThreshold=100.0;
+doc.saveAs(new File("F:/20250325cell\u80cc\u9760\u80cc\u62d2\u7a3f/20251214\u4e0a\u76ae\u5316/20260422rebuttal/\u8054\u7cfb\u7f16\u8f91/Final_Figure_Units/Figure4/supplements/FigureS7_revision_v01/figures/FigureS7_revised_v01_editable.ai"),ai);
+var pdf=new PDFSaveOptions();
+pdf.preserveEditability=true;
+pdf.compatibility=PDFCompatibility.ACROBAT8;
+pdf.generateThumbnails=true;
+pdf.optimization=true;
+doc.saveAs(new File("F:/20250325cell\u80cc\u9760\u80cc\u62d2\u7a3f/20251214\u4e0a\u76ae\u5316/20260422rebuttal/\u8054\u7cfb\u7f16\u8f91/Final_Figure_Units/Figure4/supplements/FigureS7_revision_v01/figures/FigureS7_revised_v01.pdf"),pdf);
+var minSize=999,maxSize=0;
+for(var i=0;i<doc.textFrames.length;i++){
+  var z=doc.textFrames[i].textRange.characterAttributes.size;
+  if(z<minSize)minSize=z;
+  if(z>maxSize)maxSize=z;
+}
+var audit="metric,value\n";
+audit+="textFrames,"+doc.textFrames.length+"\n";
+audit+="pathItems,"+doc.pathItems.length+"\n";
+audit+="placedItems,"+doc.placedItems.length+"\n";
+audit+="rasterItems,"+doc.rasterItems.length+"\n";
+audit+="min_font_pt,"+minSize+"\n";
+audit+="max_font_pt,"+maxSize+"\n";
+audit+="width_pt,"+doc.width+"\n";
+audit+="height_pt,"+doc.height+"\n";
+var f=new File("F:/20250325cell\u80cc\u9760\u80cc\u62d2\u7a3f/20251214\u4e0a\u76ae\u5316/20260422rebuttal/\u8054\u7cfb\u7f16\u8f91/Final_Figure_Units/Figure4/supplements/FigureS7_revision_v01/QC/FigureS7_ai_audit.csv");
+f.encoding="UTF-8";f.open("w");f.write(audit);f.close();
+doc.close(SaveOptions.DONOTSAVECHANGES);
+"DONE";

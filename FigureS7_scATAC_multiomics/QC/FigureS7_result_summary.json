@@ -1,0 +1,23 @@
+{
+  "positive_results": {
+    "FibK14_marker_accessibility": {
+      "cliffs_delta": 0.7935546993,
+      "q": 5.585484964591446e-190
+    },
+    "Klf4_ATAC_TACSTD2_RNA_rank_axis": {
+      "pearson_r": 0.5307021916026068,
+      "p": 0.0036678526421056,
+      "q": 0.0183,
+      "n": 28
+    }
+  },
+  "not_supported": {
+    "KLF4_motif_hits": 0,
+    "direct_ATAC_correlations_min_BH_q": 0.40092020900801106,
+    "Klf4_gene_score_in_FibK14": {
+      "cliffs_delta": -0.0567664082,
+      "q": 0.0485705987
+    }
+  },
+  "scope_note": "RNA-anchored label-transfer projection, not a joint-coordinate co-embedding; rank-aligned pseudobulks are not donor-paired."
+}
