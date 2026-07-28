@@ -1,0 +1,7 @@
+group_a,group_b,n_samples_a,n_samples_b,mean_percent_a,mean_percent_b,mann_whitney_u,p_value,p_adj_bh,inference_status
+Human wound,Human normal,21,10,2.7208572438312033,0.7924902220297803,179.0,0.0018967398817057526,0.005690219645117258,sample-level significant
+Rat adult,Rat embryo,10,40,7.029983407176649,0.9896125171535328,283.0,0.04540112972774331,0.06810169459161497,not significant after BH
+Reindeer velvet,Reindeer back,6,7,3.0545242652775424,4.387202613333494,14.0,0.34639977102887953,0.34639977102887953,not significant after BH
+Acomys wound,Acomys unwounded,6,1,11.913458257275165,0.932902762827413,,,,descriptive only: insufficient sample replication
+Planarian 3dpa1,Planarian 0hpa1,1,1,0.671914551004686,0.7315597315801282,,,,descriptive only: insufficient sample replication
+Planarian 7dpa1,Planarian 0hpa1,1,1,0.0,0.7315597315801282,,,,descriptive only: insufficient sample replication

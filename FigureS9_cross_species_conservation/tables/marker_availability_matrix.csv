@@ -1,0 +1,6 @@
+dataset,PDGFRA,KRT14,KLF4,IGF1,COL1A1,COL3A1,POSTN,LUM,MMP2,BMP2,SOX9
+Reindeer,True,True,True,True,True,True,True,True,True,True,False
+SpinyWound,False,True,False,True,True,True,True,True,False,False,True
+SpinySteady,False,True,True,True,True,True,True,True,True,True,True
+MouseEpi,True,False,True,True,True,True,True,True,True,True,True
+RatSpatial,True,False,True,True,True,True,True,True,True,True,True

@@ -1,0 +1,24 @@
+{
+  "figure": "Figure S9",
+  "version": "v01",
+  "canvas": "A4 portrait",
+  "font": "Arial 8-14 pt",
+  "positive_results": [
+    "Human wound positive fraction exceeds human normal at sample level (BH-FDR < 0.01).",
+    "Reindeer and Acomys wound top-200 marker lists overlap by 47 genes (hypergeometric BH-FDR 4.23e-51).",
+    "ECM/repair genes are auditable across all five evaluated marker matrices."
+  ],
+  "boundaries": [
+    "Rat adult versus embryo is a trend after sample-level BH correction (FDR about 0.068).",
+    "Reindeer velvet versus back is not significant and the mean is not higher in velvet.",
+    "Acomys control and planarian time points lack sample replication for sample-level inference.",
+    "Panel C is a dataset-level focused marker embedding, not a cell-level co-embedding.",
+    "Rat spatial and planarian signals are surrogate/signature evidence, not strict PDGFRA+KRT14 Fib_K14 calls."
+  ],
+  "outputs": [
+    "F:\\20250325cell背靠背拒稿\\20251214上皮化\\20260422rebuttal\\联系编辑\\Final_Figure_Units\\Figure6\\supplements\\FigureS9_revision_v01\\figures\\FigureS9_cross_species_conservation_v01.svg",
+    "F:\\20250325cell背靠背拒稿\\20251214上皮化\\20260422rebuttal\\联系编辑\\Final_Figure_Units\\Figure6\\supplements\\FigureS9_revision_v01\\figures\\FigureS9_cross_species_conservation_v01.pdf",
+    "F:\\20250325cell背靠背拒稿\\20251214上皮化\\20260422rebuttal\\联系编辑\\Final_Figure_Units\\Figure6\\supplements\\FigureS9_revision_v01\\figures\\FigureS9_cross_species_conservation_v01.png",
+    "F:\\20250325cell背靠背拒稿\\20251214上皮化\\20260422rebuttal\\联系编辑\\Final_Figure_Units\\Figure6\\supplements\\FigureS9_revision_v01\\figures\\FigureS9_cross_species_conservation_v01.tiff"
+  ]
+}

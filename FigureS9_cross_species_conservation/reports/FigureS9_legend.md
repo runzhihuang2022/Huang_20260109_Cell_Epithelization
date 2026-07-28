@@ -1,0 +1,13 @@
+# Figure S9. Audited cross-species evidence supporting Figure 6.
+
+**(A)** Cross-context quality-control summary of the Figure 6-positive fraction. Bars show the mean percentage across available samples and points represent individual samples. The displayed positive class follows the frozen Figure 6 analysis: existing Fib_K14 annotations for human and rat single-cell datasets, PDGFRA+KRT14 for reindeer, VIM+KRT14 for *Acomys*, and a KRT14-like mapped surrogate for planarian. Human wounds showed a higher sample-level positive fraction than normal human skin (two-sided Mann-Whitney U test, Benjamini-Hochberg [BH]-adjusted *P* = 0.0057). The rat adult-versus-embryo comparison showed a trend after BH correction (adjusted *P* = 0.068). Reindeer velvet and back skin were not significantly different. *Acomys* control and planarian time points lacked sufficient independent sample replication for sample-level inference.
+
+**(B)** Ortholog-harmonization and evidence-class workflow. Native symbols were case-normalized, audited and classified as strict symbol matches or unresolved features before construction of a shared marker matrix. A strict Fib_K14 call requires both a fibroblast-lineage marker and KRT14. Rat spatial and planarian data did not contain an auditable strict PDGFRA/KRT14 pair and were therefore retained only as surrogate/signature evidence.
+
+**(C)** Exploratory principal-component embedding of dataset-level mean expression across the audited shared marker panel. This panel evaluates broad similarity among evaluable contexts and is not a cell-level co-embedding.
+
+**(D)** Dot plot of audited lineage, epithelial and repair-associated markers across evaluable reindeer, *Acomys*, mouse and rat contexts. Dot size indicates the percentage of expressing observations and color indicates the within-gene scaled mean expression. Blank entries denote unresolved features after orthology audit rather than confirmed biological absence.
+
+**(E)** Heat map of lineage/epithelial, extracellular-matrix/repair and growth/repair programs across the same evaluable contexts. Reindeer and *Acomys* wound Fib_K14-like top-200 marker lists shared 47 genes (hypergeometric test, BH-adjusted *P* = 4.23 × 10^-51), including extracellular-matrix and wound-repair genes. Values are scaled within genes; blank entries indicate unresolved features.
+
+For panel A, samples were treated as the independent observational units where at least two samples were present in both groups. P values from prespecified two-sided Mann-Whitney U tests were adjusted across evaluable comparisons using the BH method. Pooled-cell Fisher tests used in the historical Figure 6 source are descriptive and were not used for the inferential statements in this supplement.
